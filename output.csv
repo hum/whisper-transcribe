@@ -1,0 +1,1923 @@
+0:00:00,0:00:08.860000,Yes.
+0:00:08.860000,0:00:33.620000,So now I tweaked this.
+0:00:33.620000,0:00:35.620000,"Oh, yo!"
+0:00:35.620000,0:00:40.620000,"Alright, alright boys, we're good!"
+0:00:40.620000,0:00:43.620000,I think this is gonna work!
+0:00:43.620000,0:00:54.620000,"You know, I figured it was most appropriate to livestream here on Twitter instead of on Twitch."
+0:00:54.620000,0:00:57.620000,We're gonna figure out how Twitter works on Twitter.
+0:00:57.620000,0:01:00.620000,Should we close the closet door?
+0:01:00.620000,0:01:04.620000,So those of you all don't follow me on Twitch.
+0:01:04.620000,0:01:06.620000,I'm a streamer.
+0:01:06.620000,0:01:10.620000,"Twitter's not Instagram, so that's not copyrighted."
+0:01:10.620000,0:01:15.620000,"If you wanna post it, it's entire you can. No clips, obviously. You know my rules."
+0:01:15.620000,0:01:18.620000,But let's go!
+0:01:18.620000,0:01:24.620000,"Okay, so the way that I got this by the way, my friend who is watching my Twitter text me is like,"
+0:01:24.620000,0:01:31.620000,"yo, I can get you media studio."
+0:01:31.620000,0:01:48.620000,"Yeah, so we got media studio not through any legitimate channels."
+0:01:48.620000,0:01:58.620000,"So Elon, you know, this is free money. I would have happily clicked BIM."
+0:01:58.620000,0:02:04.620000,"Alright, so we can, I may not be S here, so I can go like this."
+0:02:04.620000,0:02:10.620000,"And yeah, I think we should be good. That should be why it's green."
+0:02:10.620000,0:02:11.620000,"Alright, cool."
+0:02:11.620000,0:02:22.620000,"We're gonna move OES over here, and then we have a nice chrome with, you know, clear history here."
+0:02:22.620000,0:02:24.620000,Hi.
+0:02:24.620000,0:02:26.620000,And bring that up.
+0:02:26.620000,0:02:29.620000,"Alright, so these are my Twitter notes so far."
+0:02:29.620000,0:02:35.620000,You can all probably find this funny if you work at Twitter.
+0:02:35.620000,0:02:41.620000,So we're gonna do this without being logged in. I just got a Twitter.com.
+0:02:41.620000,0:02:47.620000,"You see what comes up here, and then a great place to start with any web stuff is to start looking at the app."
+0:02:47.620000,0:02:52.620000,Is the resolution good enough for you guys to see this stuff?
+0:02:52.620000,0:02:56.620000,I know people complain.
+0:02:56.620000,0:03:01.620000,"Oh, well, it looks like it's being cut off enough. I think I don't want to."
+0:03:01.620000,0:03:07.620000,"Okay, that's kind of visible. It's also a lot of lag."
+0:03:07.620000,0:03:09.620000,There's also a lot of lag.
+0:03:09.620000,0:03:16.620000,"We don't have any live chat here, so you guys can post on this tweet, and I'll read it over here."
+0:03:16.620000,0:03:19.620000,If you want me to see something like that.
+0:03:19.620000,0:03:22.620000,"Okay, so I was already looking into it a bit."
+0:03:22.620000,0:03:28.620000,"It looks like, so a few notes about the Twitter doesn't load at all, if we turn JavaScript off."
+0:03:28.620000,0:03:32.620000,So I'm just going to pin those scripts here.
+0:03:32.620000,0:03:35.620000,"If I turn those scripts on, you'll see that it just complains."
+0:03:35.620000,0:03:37.620000,It says JavaScript is unavailable.
+0:03:37.620000,0:03:40.620000,So that's the first thing you do.
+0:03:40.620000,0:03:43.620000,"Because if you can do things without JavaScript, it's easier."
+0:03:43.620000,0:03:48.620000,But the first thing Twitter does is loads a whole bunch of JavaScript.
+0:03:48.620000,0:03:51.620000,So we can look and view the page source here.
+0:03:51.620000,0:03:54.620000,Where's my JavaScript?
+0:03:54.620000,0:03:59.620000,"Oh, there's no script tag."
+0:03:59.620000,0:04:03.620000,That's some OG.
+0:04:11.620000,0:04:14.620000,"Yeah, so it loads these things."
+0:04:14.620000,0:04:17.620000,I feel like that number actually changed.
+0:04:17.620000,0:04:20.620000,Is that like a cashbuster?
+0:04:20.620000,0:04:25.620000,"I should copy and paste it, which ones it actually loads."
+0:04:25.620000,0:04:29.620000,"But yeah, so I can go here and I can already have cash disabled."
+0:04:29.620000,0:04:34.620000,So we can go here and see the JavaScript that it loads.
+0:04:37.620000,0:04:39.620000,Where's all the JavaScript?
+0:04:39.620000,0:04:43.620000,The reason it's not being loaded.
+0:04:43.620000,0:04:45.620000,What if being loaded last one I looked at?
+0:04:45.620000,0:04:50.620000,So I don't know what happened.
+0:04:50.620000,0:04:55.620000,"Regardless, it loads JavaScript from..."
+0:04:55.620000,0:04:58.620000,"Oh, sorry, I can't find out what's up."
+0:04:58.620000,0:04:59.620000,A little here.
+0:04:59.620000,0:05:02.620000,This is what Webpack is.
+0:05:02.620000,0:05:05.620000,I'm not that familiar with front-end stuff.
+0:05:05.620000,0:05:08.620000,"So if you're expecting for me to be an absolute front-end wizard,"
+0:05:08.620000,0:05:10.620000,I'm not.
+0:05:10.620000,0:05:14.620000,You can all watch me being new.
+0:05:14.620000,0:05:16.620000,But we know some basics.
+0:05:16.620000,0:05:21.620000,We know the old school internet.
+0:05:21.620000,0:05:24.620000,"Yeah, so I noted a few things."
+0:05:24.620000,0:05:27.620000,They have a CDN at twiminch.com.
+0:05:27.620000,0:05:29.620000,"If you go to twiminch, nothing loads."
+0:05:29.620000,0:05:30.620000,But if you're...
+0:05:30.620000,0:05:32.620000,"Oh, sorry."
+0:05:32.620000,0:05:37.620000,"If you do what who is, we can figure out when they register that."
+0:05:37.620000,0:05:40.620000,It's old.
+0:05:40.620000,0:05:42.620000,Registered.
+0:05:42.620000,0:05:45.620000,"So what we're doxing Twitter, I hope this is okay."
+0:05:45.620000,0:05:47.620000,We're doxing Twitter on Twitter.
+0:05:47.620000,0:05:50.620000,It's like meta.
+0:05:50.620000,0:05:55.620000,"How laggy is this livestream, by the way?"
+0:05:55.620000,0:05:58.620000,Let's refresh and see what people have to say in the chat.
+0:05:58.620000,0:05:59.620000,Let's go.
+0:05:59.620000,0:06:00.620000,Not that visible.
+0:06:00.620000,0:06:01.620000,Is this recorded?
+0:06:01.620000,0:06:02.620000,Low res.
+0:06:02.620000,0:06:05.620000,Let me see if I can do something about that.
+0:06:05.620000,0:06:11.620000,Um...
+0:06:11.620000,0:06:14.620000,You can custom here.
+0:06:14.620000,0:06:17.620000,I'll put a video bitrate.
+0:06:17.620000,0:06:23.620000,Where's resolution?
+0:06:23.620000,0:06:26.620000,Can I stream in high resolution?
+0:06:26.620000,0:06:30.620000,We have a lot of bitrate here.
+0:06:30.620000,0:06:32.620000,"Uh, we use the custom."
+0:06:32.620000,0:06:35.620000,I use the custom and I copy and paste it.
+0:06:35.620000,0:06:36.620000,The R.
+0:06:36.620000,0:06:39.620000,I don't know if you guys any stream keys or anything.
+0:06:39.620000,0:06:42.620000,"No, we're streaming in... I guess we're streaming in 1080."
+0:06:42.620000,0:06:45.620000,My screen's a lot more than 1080.
+0:06:45.620000,0:06:48.620000,But you should still be able to see.
+0:06:48.620000,0:06:50.620000,Hard to read any text.
+0:06:50.620000,0:06:52.620000,"All right, we'll have to just zoom in."
+0:06:52.620000,0:06:53.620000,We'll zoom in.
+0:06:53.620000,0:06:54.620000,We'll try to zoom in.
+0:06:54.620000,0:06:56.620000,You know it's harder for me to work zoom in.
+0:06:56.620000,0:07:00.620000,But you know what we're here to have fun anyway.
+0:07:00.620000,0:07:03.620000,Okay.
+0:07:03.620000,0:07:07.620000,"So yeah, this is what I found kind of from the front end."
+0:07:07.620000,0:07:12.620000,"I don't know if this is the same API that Twitter does,"
+0:07:12.620000,0:07:14.620000,but there's a really cool thing you can do.
+0:07:14.620000,0:07:17.620000,So let's go to a tweet here.
+0:07:17.620000,0:07:18.620000,"Oh, let's click these."
+0:07:18.620000,0:07:20.620000,Does this truck make my dick look small?
+0:07:20.620000,0:07:21.620000,Great.
+0:07:21.620000,0:07:23.620000,Got a lot of it.
+0:07:23.620000,0:07:26.620000,"So here, this is tweet detail."
+0:07:26.620000,0:07:27.620000,She's requesting a route.
+0:07:27.620000,0:07:29.620000,There's actually something really awesome in Chrome.
+0:07:29.620000,0:07:33.620000,You can right click and go to copy and copy all as curl.
+0:07:33.620000,0:07:34.620000,And...
+0:07:34.620000,0:07:35.620000,Wow.
+0:07:35.620000,0:07:37.620000,"Oh, copy all."
+0:07:37.620000,0:07:39.620000,That's not what I'm going to do.
+0:07:39.620000,0:07:40.620000,Okay.
+0:07:40.620000,0:07:41.620000,Okay.
+0:07:41.620000,0:07:42.620000,Great.
+0:07:42.620000,0:07:43.620000,Great.
+0:07:43.620000,0:07:44.620000,Great.
+0:07:44.620000,0:07:45.620000,Great.
+0:07:45.620000,0:07:46.620000,Great.
+0:07:46.620000,0:07:47.620000,Great.
+0:07:47.620000,0:07:48.620000,Great.
+0:07:48.620000,0:07:49.620000,Great.
+0:07:49.620000,0:07:50.620000,Great.
+0:07:50.620000,0:07:51.620000,Great.
+0:07:51.620000,0:07:52.620000,Great.
+0:07:52.620000,0:07:53.620000,Great.
+0:07:53.620000,0:07:54.620000,Great.
+0:07:54.620000,0:07:55.620000,We want to copy as curl.
+0:07:55.620000,0:07:56.620000,Not all as curl.
+0:07:56.620000,0:07:57.620000,So this is a curl request and we can break down
+0:07:57.620000,0:08:00.620000,what these things actually need a minute.
+0:08:00.620000,0:08:01.620000,Let's just kill less.
+0:08:01.620000,0:08:06.620000,Okay.
+0:08:06.620000,0:08:07.620000,Okay.
+0:08:07.620000,0:08:12.620000,She's just creating a file here called curl.sh.
+0:08:12.620000,0:08:14.620000,"And actually, this is going to make some requests from Python."
+0:08:14.620000,0:08:16.620000,You all want to see how to do some coding?
+0:08:16.620000,0:08:18.620000,"You know, we're here to code."
+0:08:18.620000,0:08:20.620000,Am I violating the Twitter terms of service?
+0:08:20.620000,0:08:21.620000,Probably.
+0:08:21.620000,0:08:24.620000,But I'm doing it live on Twitter.
+0:08:24.620000,0:08:26.620000,So maybe it's okay.
+0:08:26.620000,0:08:27.620000,Okay.
+0:08:27.620000,0:08:31.620000,Okay. That curl works.
+0:08:31.620000,0:08:32.620000,All right.
+0:08:32.620000,0:08:34.620000,So let's break down what these requests actually are.
+0:08:34.620000,0:08:36.620000,"So for those of you that don't know,"
+0:08:36.620000,0:08:40.620000,grab QL is a query language for your API.
+0:08:40.620000,0:08:45.620000,"And I think there is some ways to request, like, some metadata."
+0:08:45.620000,0:08:48.620000,"Now, I don't know if this is the Twitter developer API."
+0:08:48.620000,0:08:54.620000,"So let's, let's always read the docs if the docs exists first."
+0:08:54.620000,0:08:57.620000,Okay.
+0:08:57.620000,0:09:00.620000,It's readable.
+0:09:00.620000,0:09:01.620000,Yeah.
+0:09:01.620000,0:09:03.620000,What are you talking about?
+0:09:03.620000,0:09:04.620000,A resolution improved.
+0:09:04.620000,0:09:06.620000,"How do you go live on Twitter, bro?"
+0:09:06.620000,0:09:07.620000,You got to have a guy.
+0:09:07.620000,0:09:11.620000,"You're going to have a guy get you access to Twitter videos to, you know, man."
+0:09:11.620000,0:09:12.620000,Like legit.
+0:09:12.620000,0:09:14.620000,I don't know if there's another way.
+0:09:14.620000,0:09:15.620000,"But yeah, my friend texted me."
+0:09:15.620000,0:09:18.620000,"This guy's like an internet, like, he's an internet genius, you know,"
+0:09:18.620000,0:09:20.620000,"with all, like, the people he knows on the internet."
+0:09:20.620000,0:09:27.620000,"He's like, yo, I can get that for you."
+0:09:27.620000,0:09:38.620000,"So, yeah, let's see if the docs here say how to do it."
+0:09:38.620000,0:09:39.620000,What was that open for?
+0:09:39.620000,0:09:40.620000,Okay.
+0:09:40.620000,0:09:44.620000,Let's just search for GraphQL and see if it's the same API.
+0:09:44.620000,0:09:47.620000,Your search for GraphQL returned zero results.
+0:09:47.620000,0:09:50.620000,Okay.
+0:09:50.620000,0:09:53.620000,Let's go to realAPI.py.
+0:09:53.620000,0:09:54.620000,Okay.
+0:09:54.620000,0:09:57.620000,We're going to call it realAPI.py because it's Python.
+0:09:57.620000,0:09:58.620000,Right.
+0:09:58.620000,0:10:02.620000,"It's first time to request that returns a less than 10, so amount of data."
+0:10:02.620000,0:10:07.620000,I recall correctly this one does.
+0:10:07.620000,0:10:08.620000,That guest token.
+0:10:08.620000,0:10:11.620000,"Oh, well, well, that's a bad guest token."
+0:10:11.620000,0:10:14.620000,Okay.
+0:10:14.620000,0:10:17.620000,Let's find a shorter one of these.
+0:10:17.620000,0:10:19.620000,"You see, this is a totally different API."
+0:10:19.620000,0:10:21.620000,This is API2GuideJSON.
+0:10:21.620000,0:10:25.620000,I also found this thing called hashflags.json.
+0:10:25.620000,0:10:27.620000,It's kind of cool.
+0:10:27.620000,0:10:34.620000,"It like shows you, like, probably the people who pay Twitter money to be a part of this thing."
+0:10:34.620000,0:10:36.620000,"Yo, this is so fun, boys."
+0:10:36.620000,0:10:40.620000,You know what's great about not having a real job out of place?
+0:10:40.620000,0:10:46.620000,You can mess around publicly.
+0:10:46.620000,0:10:49.620000,And this is fun.
+0:10:49.620000,0:10:51.620000,"It's just fun, man, because there's no expectations."
+0:10:51.620000,0:10:53.620000,Once there's expectations.
+0:10:53.620000,0:10:58.620000,"So I know that we're on Twitter now and we're on Twitch, so some of you might be new to my stream"
+0:10:58.620000,0:11:00.620000,and new to the kind of things I do.
+0:11:00.620000,0:11:03.620000,"We kind of shit talk, casual leave-up programming."
+0:11:03.620000,0:11:06.620000,So let's look at this here.
+0:11:06.620000,0:11:07.620000,Copy.
+0:11:07.620000,0:11:09.620000,Copy as curl.
+0:11:09.620000,0:11:13.620000,"Okay, that one runs and emits a less offensive amount of data."
+0:11:13.620000,0:11:20.620000,So let's go over here.
+0:11:20.620000,0:11:23.620000,So let's go some Vs on that bitch.
+0:11:23.620000,0:11:26.620000,We got Vs.
+0:11:26.620000,0:11:28.620000,Good.
+0:11:28.620000,0:11:30.620000,"Wow, API2."
+0:11:30.620000,0:11:31.620000,HTTP2.
+0:11:31.620000,0:11:33.620000,"Yeah, Twitter uses HTTP2."
+0:11:33.620000,0:11:35.620000,"Okay, so funny about the first one."
+0:11:35.620000,0:11:38.620000,Interesting thing to note is that it's a get request.
+0:11:38.620000,0:11:41.620000,So let's start with request.get.
+0:11:41.620000,0:11:46.620000,And let's copy and paste this.
+0:11:46.620000,0:11:48.620000,"Yo, I was listening to you."
+0:11:48.620000,0:11:50.620000,"So I'm gang, gang."
+0:11:50.620000,0:11:53.620000,"I was listening to gang, gang."
+0:11:53.620000,0:12:00.620000,Okay.
+0:12:00.620000,0:12:10.620000,"Wow, I like this request."
+0:12:10.620000,0:12:16.620000,"Yo, I was listening to way into this."
+0:12:16.620000,0:12:18.620000,"See, I don't know anything."
+0:12:18.620000,0:12:19.620000,Don't hire me.
+0:12:19.620000,0:12:20.620000,I don't know anything.
+0:12:20.620000,0:12:22.620000,"Like, you think George, you should know how to use requests, man."
+0:12:22.620000,0:12:26.620000,"If you are a real senior software engineer, you know that kind of stuff."
+0:12:26.620000,0:12:33.620000,"But, you know, I'll ask for a."
+0:12:33.620000,0:12:38.620000,"Okay, so I will note that that actually does nothing."
+0:12:38.620000,0:12:40.620000,Let's see if it's going to take us.
+0:12:40.620000,0:12:42.620000,I'm probably getting a 403.
+0:12:42.620000,0:12:44.620000,I guess it's going to be a 403.
+0:12:44.620000,0:12:46.620000,So that was a throw-down for a 3v on a authorized.
+0:12:46.620000,0:12:48.620000,You just got to know your HTTP codes.
+0:12:48.620000,0:12:50.620000,That's a question I brought in common interviews.
+0:12:50.620000,0:12:52.620000,"I'm like, you know, what's the 200?"
+0:12:52.620000,0:12:57.620000,"Okay, what's it? It's a 301 and a 302, man."
+0:12:57.620000,0:12:59.620000,"You know, what do you think of the band 303?"
+0:12:59.620000,0:13:02.620000,"No, I never asked that."
+0:13:02.620000,0:13:04.620000,Can't trust the hoe.
+0:13:04.620000,0:13:06.620000,We won't trust this hoe.
+0:13:06.620000,0:13:10.620000,Don't trust me.
+0:13:10.620000,0:13:11.620000,Okay.
+0:13:11.620000,0:13:19.620000,We're going to need some of these parameters because they're important.
+0:13:19.620000,0:13:22.620000,We should bring the mic up here too.
+0:13:22.620000,0:13:24.620000,"You know, I tried to get better lighting."
+0:13:24.620000,0:13:26.620000,I almost bought expensive cameras.
+0:13:26.620000,0:13:28.620000,But then I bought a ring light.
+0:13:28.620000,0:13:33.620000,So that's why my face looks like I'm glowing.
+0:13:33.620000,0:13:35.620000,"Oh, wait."
+0:13:35.620000,0:13:38.620000,Are we allowed to listen to copyrighted music?
+0:13:38.620000,0:13:41.620000,Because this isn't Twitch.
+0:13:41.620000,0:13:43.620000,"Should we just, should we do it?"
+0:13:43.620000,0:13:44.620000,"I don't know, man."
+0:13:44.620000,0:13:45.620000,This is weird.
+0:13:45.620000,0:13:47.620000,"We're talking to myself without a comment or stream being like,"
+0:13:47.620000,0:13:50.620000,"no, no, no, they'll kick you off the internet."
+0:13:50.620000,0:13:54.620000,If you listen to copyrighted music while you stream.
+0:13:54.620000,0:14:02.620000,All right.
+0:14:02.620000,0:14:03.620000,Okay.
+0:14:03.620000,0:14:05.620000,"So let's figure out, you know what?"
+0:14:05.620000,0:14:07.620000,"First, let's, you know what I always say?"
+0:14:07.620000,0:14:09.620000,Hacking is just binary search by hand.
+0:14:09.620000,0:14:12.620000,So let's figure out which one of these actually matters.
+0:14:12.620000,0:14:13.620000,Okay.
+0:14:13.620000,0:14:14.620000,So notice that the request still works.
+0:14:14.620000,0:14:20.620000,"I don't know, let's delete these ones and see if the request still works."
+0:14:20.620000,0:14:21.620000,All right.
+0:14:21.620000,0:14:22.620000,You see what we're doing?
+0:14:22.620000,0:14:24.620000,We're doing binary search by hand.
+0:14:24.620000,0:14:25.620000,I got the request still works.
+0:14:25.620000,0:14:26.620000,Great.
+0:14:26.620000,0:14:30.620000,Do we need those ones?
+0:14:30.620000,0:14:33.620000,What does dash dash compress do for car?
+0:14:33.620000,0:14:34.620000,Nope.
+0:14:34.620000,0:14:35.620000,We need some of those.
+0:14:35.620000,0:14:37.620000,Some of those are important.
+0:14:37.620000,0:14:43.620000,Hmm.
+0:14:43.620000,0:14:44.620000,Compressed.
+0:14:44.620000,0:14:47.620000,"Oh, and automatically decompressed the comments."
+0:14:47.620000,0:14:50.620000,I don't think we need that.
+0:14:50.620000,0:14:52.620000,I probably should have done this in the bash script.
+0:14:52.620000,0:14:56.620000,So I'm not copying and pasting things over and over again.
+0:14:56.620000,0:14:58.620000,I got that still works.
+0:14:58.620000,0:15:00.620000,Which of these can't be important?
+0:15:00.620000,0:15:03.620000,"Authority, cash control, not a brand."
+0:15:03.620000,0:15:07.620000,That's those are not important.
+0:15:07.620000,0:15:08.620000,Okay.
+0:15:08.620000,0:15:09.620000,Still works.
+0:15:09.620000,0:15:12.620000,So we're just trying to figure out which of these HTTP headers we actually need
+0:15:12.620000,0:15:18.620000,to make Twitter requests.
+0:15:18.620000,0:15:26.620000,"Probably not important, but maybe important."
+0:15:26.620000,0:15:28.620000,Still works.
+0:15:28.620000,0:15:33.620000,X Twitter active user.
+0:15:33.620000,0:15:35.620000,"We're doing web, boys, we're doing web."
+0:15:35.620000,0:15:36.620000,Who likes going to web?
+0:15:36.620000,0:15:40.620000,We need the Searsoft token.
+0:15:40.620000,0:15:43.620000,I didn't even need the Searsoft token.
+0:15:43.620000,0:15:44.620000,"Okay, great."
+0:15:44.620000,0:15:47.620000,I guess I just needed the cookie or don't need the guest token.
+0:15:47.620000,0:15:50.620000,Let's try without the cookie.
+0:15:50.620000,0:15:52.620000,The cookie was not important.
+0:15:52.620000,0:15:54.620000,Maybe just the guest token was important.
+0:15:54.620000,0:15:57.620000,I don't think I need a user agent.
+0:15:57.620000,0:15:58.620000,Let's see.
+0:15:58.620000,0:15:59.620000,Look at it.
+0:15:59.620000,0:16:00.620000,I guess just binary search in my hand.
+0:16:00.620000,0:16:02.620000,Let's go.
+0:16:02.620000,0:16:03.620000,"See, look."
+0:16:03.620000,0:16:05.620000,Look at all the stuff I've already removed.
+0:16:05.620000,0:16:08.620000,We can remove all that stuff and make Twitter that much faster.
+0:16:08.620000,0:16:10.620000,Because that's how it works.
+0:16:10.620000,0:16:13.620000,We need an authorization and do we need a guest token?
+0:16:13.620000,0:16:17.620000,Let's just do that last thing.
+0:16:17.620000,0:16:18.620000,"See, look, look, look, look."
+0:16:18.620000,0:16:20.620000,Look at how much I have already optimized.
+0:16:20.620000,0:16:23.620000,We were making all those requests with all that stupid stuff.
+0:16:23.620000,0:16:26.620000,And now we don't need all that stuff.
+0:16:26.620000,0:16:29.620000,Okay.
+0:16:29.620000,0:16:31.620000,Param's data headers.
+0:16:31.620000,0:16:32.620000,"Yeah, that's it."
+0:16:32.620000,0:16:34.620000,I'll say headers equals headers.
+0:16:34.620000,0:16:39.620000,And this goes from headers here.
+0:16:39.620000,0:16:43.620000,"So, I mean, there's a lot of ways that we can go about approaching something like Twitter."
+0:16:43.620000,0:16:48.620000,"So this is, let's figure out just how they're API works and think about what we might be hitting."
+0:16:48.620000,0:16:50.620000,I started some notes on the back end.
+0:16:50.620000,0:16:53.620000,"Usually, I mean, you can't get much information about their back end."
+0:16:53.620000,0:16:58.620000,"But usually when you want to look into something like this, you read their engineering blog."
+0:16:58.620000,0:17:00.620000,It's usually pretty good.
+0:17:00.620000,0:17:02.620000,They talk a lot about Hadoop.
+0:17:02.620000,0:17:06.620000,"I will also, I will be honest, I've never written a line of Scala in my life."
+0:17:06.620000,0:17:11.620000,So maybe we should just take a quick look at what Scala actually looks like.
+0:17:11.620000,0:17:13.620000,Learn Scala.
+0:17:13.620000,0:17:16.620000,Should we learn Scala?
+0:17:16.620000,0:17:19.620000,Use the Scala installer.
+0:17:19.620000,0:17:20.620000,You know what?
+0:17:20.620000,0:17:23.620000,Maybe we should do some hacker rank programs in Scala.
+0:17:23.620000,0:17:24.620000,We'll get there.
+0:17:24.620000,0:17:25.620000,Come on.
+0:17:25.620000,0:17:26.620000,I got to prepare.
+0:17:26.620000,0:17:29.620000,Who knows what's going to happen at my Twitter interview.
+0:17:29.620000,0:17:32.620000,"You know, who knows."
+0:17:32.620000,0:17:36.620000,How do you go live on Twitter?
+0:17:36.620000,0:17:41.620000,"You've got to be a giga chat to go live on Twitter, bro."
+0:17:41.620000,0:17:52.620000,Can't really see anything.
+0:17:52.620000,0:17:57.620000,GrabHot's is bearer token and go rogue.
+0:17:57.620000,0:17:59.620000,What's my bearer token that I post?
+0:17:59.620000,0:18:01.620000,"Oh, oh, that token."
+0:18:01.620000,0:18:02.620000,"Guys, I'm not logged in."
+0:18:02.620000,0:18:04.620000,You can't do anything with this token.
+0:18:04.620000,0:18:06.620000,I'm not logged in.
+0:18:06.620000,0:18:13.620000,"That's why I'm not logged in, guys."
+0:18:13.620000,0:18:14.620000,You think I'm stupid?
+0:18:14.620000,0:18:16.620000,"You think I would do this with a logged in account, bro?"
+0:18:16.620000,0:18:17.620000,I have some op-sack.
+0:18:17.620000,0:18:21.620000,"No, I have, I have, okay, op-sack."
+0:18:21.620000,0:18:22.620000,No one tests my op-sack.
+0:18:22.620000,0:18:25.620000,"I'll fuck you up in court, bro."
+0:18:25.620000,0:18:28.620000,"Okay, headers."
+0:18:28.620000,0:18:30.620000,We have X.
+0:18:30.620000,0:18:32.620000,Guest token.
+0:18:32.620000,0:18:34.620000,You know what this reminds me of?
+0:18:34.620000,0:18:37.620000,I did spend some time automating dating sites.
+0:18:37.620000,0:18:40.620000,Like automating Tinder and Bumble and stuff.
+0:18:40.620000,0:18:43.620000,It reminds me kind of of doing that.
+0:18:43.620000,0:18:45.620000,Let's go Shabang.
+0:18:45.620000,0:18:49.620000,Shabang.
+0:18:49.620000,0:18:51.620000,"By the way, who's excited about the new Python?"
+0:18:51.620000,0:18:54.620000,Python is a Python 312.
+0:18:54.620000,0:18:55.620000,"Okay, okay."
+0:18:55.620000,0:18:59.620000,So we'll notice that I've replicated the curl in Python.
+0:18:59.620000,0:19:03.620000,"Okay, now let's break this out a little bit."
+0:19:03.620000,0:19:12.620000,"Oh, God."
+0:19:12.620000,0:19:15.620000,Look at that.
+0:19:15.620000,0:19:17.620000,I want to decode those things.
+0:19:17.620000,0:19:26.620000,Is it like a way to do that?
+0:19:26.620000,0:19:28.620000,Probably not.
+0:19:28.620000,0:19:34.620000,"And at first, just say URL."
+0:19:34.620000,0:19:52.620000,URL.
+0:19:52.620000,0:19:55.620000,There's got to be a way to decode this.
+0:19:55.620000,0:19:59.620000,I'm sure it's going to work.
+0:19:59.620000,0:20:06.620000,Python decode percent encoder.
+0:20:06.620000,0:20:16.620000,"From URL, parse, import, unquote."
+0:20:16.620000,0:20:17.620000,Wow.
+0:20:17.620000,0:20:22.620000,"Okay, so basically that's just JSON in the variables."
+0:20:22.620000,0:20:24.620000,"Can actually, what if I just do this?"
+0:20:24.620000,0:20:28.620000,Can I just still pass that to requests?
+0:20:28.620000,0:20:29.620000,Okay.
+0:20:29.620000,0:20:35.620000,"Hello, we're streaming on Twitter."
+0:20:35.620000,0:20:38.620000,"Oh, I didn't know that was a thing."
+0:20:38.620000,0:20:39.620000,"No, it wasn't."
+0:20:39.620000,0:20:42.620000,"But our boy who we did say we're not going to say on stream,"
+0:20:42.620000,0:20:45.620000,hooked us up and got us Twitter media studio.
+0:20:45.620000,0:20:47.620000,So we're streaming on Twitter now.
+0:20:47.620000,0:20:48.620000,We have 87 viewers.
+0:20:48.620000,0:20:51.620000,"Yeah, we're a reverse engine here on Twitter on Twitter."
+0:20:51.620000,0:20:52.620000,"Oh, I love that."
+0:20:52.620000,0:20:53.620000,Yeah.
+0:20:53.620000,0:20:57.620000,"So how does Twitter work, right?"
+0:20:57.620000,0:20:58.620000,Okay.
+0:20:58.620000,0:20:59.620000,So good.
+0:20:59.620000,0:21:00.620000,Good.
+0:21:00.620000,0:21:01.620000,I'm glad you know they have safety mode user fields.
+0:21:01.620000,0:21:03.620000,"Guys, safety is very important."
+0:21:03.620000,0:21:04.620000,"Yeah, yeah, yeah, yeah."
+0:21:04.620000,0:21:05.620000,This is Alex.
+0:21:05.620000,0:21:06.620000,Go on the wireless.
+0:21:06.620000,0:21:07.620000,Do you want to do anything to stream?
+0:21:07.620000,0:21:08.620000,You look at the light now.
+0:21:08.620000,0:21:09.620000,We need to put a light in the wrong place.
+0:21:09.620000,0:21:10.620000,I do the light wrong.
+0:21:10.620000,0:21:11.620000,Yeah.
+0:21:11.620000,0:21:12.620000,Why have that light over there?
+0:21:12.620000,0:21:15.620000,Look how much burn there is on the side of your...
+0:21:15.620000,0:21:16.620000,"Oh, I know."
+0:21:16.620000,0:21:17.620000,"Okay, well, lower the light."
+0:21:17.620000,0:21:18.620000,You want to be in charge of lights?
+0:21:18.620000,0:21:19.620000,"I bought a ring light, guys."
+0:21:19.620000,0:21:20.620000,Yeah.
+0:21:20.620000,0:21:30.620000,You know that you should go back there.
+0:21:30.620000,0:21:32.620000,"I know, but that doesn't fit back there."
+0:21:32.620000,0:21:33.620000,We'll just lower it a little bit.
+0:21:33.620000,0:21:34.620000,"Yeah, yeah."
+0:21:34.620000,0:21:35.620000,Is that better?
+0:21:35.620000,0:21:36.620000,"Yeah, yeah."
+0:21:36.620000,0:21:37.620000,All right.
+0:21:37.620000,0:21:40.620000,"I think even if I just put it on the table, it will look better."
+0:21:40.620000,0:21:41.620000,"No, no, no, no."
+0:21:41.620000,0:21:42.620000,I'm not messing with the light too much.
+0:21:42.620000,0:21:43.620000,We're good.
+0:21:43.620000,0:21:44.620000,All right.
+0:21:44.620000,0:21:45.620000,"Have fun, guys."
+0:21:45.620000,0:21:46.620000,Thank you.
+0:21:46.620000,0:21:48.620000,I'll be done with this in seven hours.
+0:21:48.620000,0:21:50.620000,I'll be done with this in seven hours.
+0:21:50.620000,0:21:51.620000,I'm fine.
+0:21:51.620000,0:21:54.620000,"I'll look like I've got to prepare, you know?"
+0:21:54.620000,0:21:58.620000,"If I don't get this job, how are we going to put food on the table?"
+0:21:58.620000,0:21:59.620000,You got an interview?
+0:21:59.620000,0:22:00.620000,What?
+0:22:00.620000,0:22:02.620000,"Yeah, I don't know what they're going to ask me."
+0:22:02.620000,0:22:03.620000,Maybe I should learn Scala.
+0:22:03.620000,0:22:06.620000,That seems like a huge way.
+0:22:06.620000,0:22:11.620000,"No, we'll do some Scala challenges, guys."
+0:22:11.620000,0:22:12.620000,We'll do some Scala challenges.
+0:22:12.620000,0:22:14.620000,I'm going to fall down and try it on the floor.
+0:22:14.620000,0:22:15.620000,"Oh, that sounds lovely."
+0:22:15.620000,0:22:22.620000,Let's see.
+0:22:22.620000,0:22:33.620000,How do I describe percent in coming out great?
+0:22:33.620000,0:22:39.620000,Let's just take this and throw this in here.
+0:22:39.620000,0:22:40.620000,"Okay, hang on."
+0:22:40.620000,0:22:42.620000,I want to do a few things.
+0:22:42.620000,0:22:45.620000,Let's call it variables.
+0:22:45.620000,0:22:46.620000,Let's call it data.
+0:22:46.620000,0:22:47.620000,Variables.
+0:22:47.620000,0:22:48.620000,Let me sketch it.
+0:22:48.620000,0:22:49.620000,Okay.
+0:22:49.620000,0:22:50.620000,Data.
+0:22:50.620000,0:22:55.620000,"And then, yeah, you see that I have to like Google things too,"
+0:22:55.620000,0:22:57.620000,because I'm actually an idiot.
+0:22:57.620000,0:23:02.620000,So we have prerams equals variables.
+0:23:02.620000,0:23:04.620000,Data.
+0:23:04.620000,0:23:05.620000,Cool.
+0:23:05.620000,0:23:12.620000,Let's see.
+0:23:12.620000,0:23:14.620000,Does that still work?
+0:23:14.620000,0:23:17.620000,"Oh, the following features cannot be null."
+0:23:17.620000,0:23:18.620000,Look at this.
+0:23:18.620000,0:23:20.620000,"We're getting some data back, though."
+0:23:20.620000,0:23:23.620000,"Oh, headers."
+0:23:23.620000,0:23:25.620000,Params is variables data.
+0:23:25.620000,0:23:28.620000,Isn't that work?
+0:23:28.620000,0:23:33.620000,Hmm.
+0:23:33.620000,0:23:39.620000,Now what prerams are?
+0:23:39.620000,0:23:40.620000,Dictionary.
+0:23:40.620000,0:23:49.620000,List of two pulls in.
+0:23:49.620000,0:23:50.620000,Try that.
+0:23:50.620000,0:23:52.620000,"So, it's not work?"
+0:23:52.620000,0:23:53.620000,Hmm.
+0:23:53.620000,0:23:55.620000,Weird.
+0:23:55.620000,0:23:59.620000,Why does that not work?
+0:23:59.620000,0:24:02.620000,Isn't that exactly what prerams is?
+0:24:02.620000,0:24:10.620000,List of two pulls or bytes to send in the query string for the request.
+0:24:10.620000,0:24:11.620000,Okay.
+0:24:11.620000,0:24:13.620000,"I don't really understand, but whatever."
+0:24:13.620000,0:24:14.620000,Um.
+0:24:14.620000,0:24:17.620000,I do wrong.
+0:24:17.620000,0:24:18.620000,I don't know.
+0:24:18.620000,0:24:21.620000,"Guys, let's break this JSON down."
+0:24:21.620000,0:24:24.620000,"So, uh."
+0:24:24.620000,0:24:28.620000,Or JSON.
+0:24:28.620000,0:24:30.620000,JSON.dumps.
+0:24:30.620000,0:24:32.620000,"Yeah, good."
+0:24:32.620000,0:24:33.620000,You understand.
+0:24:33.620000,0:24:34.620000,Sweet.
+0:24:34.620000,0:24:35.620000,All right.
+0:24:35.620000,0:24:37.620000,Um.
+0:24:37.620000,0:24:40.620000,Let's see if this is normal JSON.
+0:24:40.620000,0:24:42.620000,"Oh, no loads."
+0:24:42.620000,0:24:45.620000,Let's get that backwards.
+0:24:45.620000,0:24:47.620000,Extra data.
+0:24:47.620000,0:24:49.620000,Okay.
+0:24:49.620000,0:24:53.620000,Is this not valid JSON?
+0:24:53.620000,0:24:56.620000,Um.
+0:24:56.620000,0:24:59.620000,Why is that extra data?
+0:24:59.620000,0:25:01.620000,Extra data.
+0:25:01.620000,0:25:05.620000,"Line 1,89."
+0:25:05.620000,0:25:13.620000,Is it like a broken code or something?
+0:25:13.620000,0:25:15.620000,"Oh, and features."
+0:25:15.620000,0:25:17.620000,"Oh, I see."
+0:25:17.620000,0:25:18.620000,Okay.
+0:25:18.620000,0:25:20.620000,"So, that's why that didn't work."
+0:25:20.620000,0:25:21.620000,Um.
+0:25:21.620000,0:25:23.620000,"Because we have something called features, too."
+0:25:23.620000,0:25:24.620000,Okay.
+0:25:24.620000,0:25:27.620000,"So, first we have variables."
+0:25:27.620000,0:25:32.620000,And that's equal to this.
+0:25:32.620000,0:25:34.620000,A user ID.
+0:25:34.620000,0:25:36.620000,"Now remember, you can say like, George,"
+0:25:36.620000,0:25:38.620000,why are you wasting time copying and pasting?
+0:25:38.620000,0:25:40.620000,And the truth is this is how you learn.
+0:25:40.620000,0:25:41.620000,At least this is how I learn.
+0:25:41.620000,0:25:43.620000,"And like I said, yeah, I'm slow."
+0:25:43.620000,0:25:45.620000,"So, aw."
+0:25:45.620000,0:25:48.620000,The truth about being a 100x engineer
+0:25:48.620000,0:25:51.620000,is just putting in 100x more hours.
+0:25:51.620000,0:25:56.620000,Now it's not really true.
+0:25:56.620000,0:25:57.620000,Okay.
+0:25:57.620000,0:26:07.620000,"So now, let's see if we can get parameters to work."
+0:26:07.620000,0:26:10.620000,Parrams.
+0:26:10.620000,0:26:12.620000,Variables.
+0:26:12.620000,0:26:14.620000,Variables.
+0:26:14.620000,0:26:16.620000,I promise we'll clean this up.
+0:26:16.620000,0:26:18.620000,But this is usually undocumented Twitter API.
+0:26:18.620000,0:26:20.620000,Or it's probably actually documented somewhere.
+0:26:20.620000,0:26:22.620000,"And if someone wants to post like a link to it,"
+0:26:22.620000,0:26:24.620000,I would appreciate that.
+0:26:24.620000,0:26:26.620000,But we're learning.
+0:26:26.620000,0:26:27.620000,Okay.
+0:26:27.620000,0:26:28.620000,Add further work.
+0:26:28.620000,0:26:29.620000,Okay.
+0:26:29.620000,0:26:30.620000,This is the work.
+0:26:30.620000,0:26:31.620000,"Oh, great."
+0:26:31.620000,0:26:32.620000,I'm glad that works.
+0:26:32.620000,0:26:33.620000,"Otherwise, I would have been annoyed."
+0:26:33.620000,0:26:34.620000,Okay.
+0:26:34.620000,0:26:36.620000,Can we JSON dump these?
+0:26:36.620000,0:26:37.620000,Joke.
+0:26:37.620000,0:26:38.620000,Joke.
+0:26:38.620000,0:26:39.620000,Joke.
+0:26:39.620000,0:26:41.620000,"Oh, let's just throw a gear."
+0:26:41.620000,0:26:43.620000,Probably have to swipe.
+0:26:43.620000,0:26:44.620000,Swag.
+0:26:44.620000,0:26:46.620000,Just so I can get diff when I break things.
+0:26:46.620000,0:26:56.620000,I'm probably not going to push this.
+0:26:56.620000,0:27:03.620000,But it's so I can get diff when I break things.
+0:27:03.620000,0:27:04.620000,Okay.
+0:27:04.620000,0:27:11.620000,"Again, it's loads."
+0:27:11.620000,0:27:20.620000,"Well, those automatically do JSON encoded."
+0:27:20.620000,0:27:22.620000,"No, they won't be."
+0:27:22.620000,0:27:26.620000,What's the right dictionary comprehension?
+0:27:26.620000,0:27:32.620000,Parrams equals KJSON.domstex for X.com.k.
+0:27:32.620000,0:27:34.620000,And Parrams.item.
+0:27:34.620000,0:27:37.620000,"See, I can do some stuff without having to Google."
+0:27:37.620000,0:27:38.620000,I've got it wrong.
+0:27:38.620000,0:27:39.620000,I got it right.
+0:27:39.620000,0:27:42.620000,"So, I got it wrong."
+0:27:42.620000,0:27:43.620000,I got it wrong.
+0:27:43.620000,0:27:44.620000,"So, we have headers."
+0:27:44.620000,0:27:45.620000,We have variables.
+0:27:45.620000,0:27:48.620000,And we have features.
+0:27:48.620000,0:27:51.620000,"Well, let's actually start looking at what our response is."
+0:27:51.620000,0:27:52.620000,Okay.
+0:27:52.620000,0:27:53.620000,"So, our response clearly looks like JSON."
+0:27:53.620000,0:27:56.620000,"So, I think there's actually, I kind of do like r.json."
+0:27:56.620000,0:27:57.620000,"Yeah, something like that."
+0:27:57.620000,0:27:59.620000,All right.
+0:27:59.620000,0:28:02.620000,"Bound method response, JSON."
+0:28:02.620000,0:28:06.620000,Passerr.status.domstex equals 200.200.
+0:28:06.620000,0:28:09.620000,"Yeah, 200's good, guys."
+0:28:09.620000,0:28:10.620000,"When you get it 200, you're winning."
+0:28:10.620000,0:28:11.620000,"Oh, good."
+0:28:11.620000,0:28:12.620000,Good. They have a Ukraine flag.
+0:28:12.620000,0:28:14.620000,And they have a atheist and resistance.
+0:28:14.620000,0:28:15.620000,Banta Salt Levels.
+0:28:15.620000,0:28:16.620000,That's good.
+0:28:16.620000,0:28:18.620000,That's another one of the good people.
+0:28:18.620000,0:28:22.620000,All right.
+0:28:22.620000,0:28:24.620000,Let's not use this.
+0:28:24.620000,0:28:28.620000,This is junk.
+0:28:28.620000,0:28:30.620000,Variables.
+0:28:30.620000,0:28:31.620000,Sorry.
+0:28:31.620000,0:28:33.620000,I just picked a user at random.
+0:28:33.620000,0:28:34.620000,"I don't mean to call you out,"
+0:28:34.620000,0:28:37.620000,"but I mean, I guess I'm shilling through your causes."
+0:28:37.620000,0:28:42.620000,"Um, well, we're going to try incrementing the user number by one."
+0:28:42.620000,0:28:45.620000,"Now, remember, when we've incremented the user number by one,"
+0:28:45.620000,0:28:47.620000,he went to jail and became a Nazi.
+0:28:47.620000,0:28:50.620000,"So, let's hope that doesn't happen to us when we do it."
+0:28:50.620000,0:28:57.620000,All right.
+0:28:57.620000,0:28:59.620000,Let's try eight.
+0:28:59.620000,0:29:01.620000,Do we get a new user?
+0:29:01.620000,0:29:04.620000,"I think we got a new user, guys."
+0:29:04.620000,0:29:05.620000,I think I don't know.
+0:29:05.620000,0:29:09.620000,I can't really tap.
+0:29:09.620000,0:29:12.620000,"Uh, there's a Python thing called pretty print JSON."
+0:29:12.620000,0:29:13.620000,Python.
+0:29:13.620000,0:29:16.620000,Pretty print JSON.
+0:29:16.620000,0:29:20.620000,"Oh, actually, there's just a pretty print in Python."
+0:29:20.620000,0:29:24.620000,Pretty.
+0:29:24.620000,0:29:28.620000,"Uh, JSON that dumps."
+0:29:28.620000,0:29:35.620000,"Now, uh, P print."
+0:29:35.620000,0:29:46.620000,All right.
+0:29:46.620000,0:29:48.620000,Look at all this great stuff we get.
+0:29:48.620000,0:29:49.620000,Cool.
+0:29:49.620000,0:29:52.620000,"Now, this should work for any user ID."
+0:29:52.620000,0:29:58.620000,"Yeah, should we, should we responsive webql timeline enabled?"
+0:29:58.620000,0:29:59.620000,All right.
+0:29:59.620000,0:30:01.620000,"So, we're making a query."
+0:30:01.620000,0:30:04.620000,Twitter that has this stuff.
+0:30:04.620000,0:30:06.620000,"Oh, I'm probably like, do you like, George,"
+0:30:06.620000,0:30:08.620000,you can just do this all in this simple web tool.
+0:30:08.620000,0:30:11.620000,"And yeah, yeah, you probably can, but remember I was slow."
+0:30:11.620000,0:30:15.620000,"So, uh, I good."
+0:30:15.620000,0:30:16.620000,Wow.
+0:30:16.620000,0:30:18.620000,You can see what a Twitter account's created.
+0:30:18.620000,0:30:19.620000,All right.
+0:30:19.620000,0:30:24.620000,I can't get my user ID.
+0:30:24.620000,0:30:26.620000,"This is two meta, two meta, guess."
+0:30:26.620000,0:30:27.620000,Two meta.
+0:30:27.620000,0:30:29.620000,Cool.
+0:30:29.620000,0:30:34.620000,How do we get my user ID?
+0:30:34.620000,0:30:37.620000,"Uh, user by rest ID."
+0:30:37.620000,0:30:40.620000,Variables.
+0:30:40.620000,0:30:43.620000,This might put our ID.
+0:30:43.620000,0:30:50.620000,"Well, I have a long user ID."
+0:30:50.620000,0:30:53.620000,Probably because I'm not legacy.
+0:30:53.620000,0:30:54.620000,Uh-oh.
+0:30:54.620000,0:30:56.620000,Our status code is not 200.
+0:30:56.620000,0:30:59.620000,"Uh, God's status."
+0:30:59.620000,0:31:04.620000,Our God's status code.
+0:31:04.620000,0:31:05.620000,400.
+0:31:05.620000,0:31:06.620000,What's a 400?
+0:31:06.620000,0:31:08.620000,400 status code.
+0:31:08.620000,0:31:09.620000,I probably fail my own interview.
+0:31:09.620000,0:31:10.620000,"Oh, it's a bad request."
+0:31:10.620000,0:31:11.620000,Okay.
+0:31:11.620000,0:31:12.620000,"We messed the request up, guys."
+0:31:12.620000,0:31:17.620000,"Oh, heavy mess up."
+0:31:17.620000,0:31:21.620000,"Uh, maybe that 22 is, uh, actually in the, yeah, yeah."
+0:31:21.620000,0:31:22.620000,It's in the percent.
+0:31:22.620000,0:31:23.620000,Okay.
+0:31:23.620000,0:31:24.620000,You're right about 22.
+0:31:24.620000,0:31:26.620000,"No, 22."
+0:31:26.620000,0:31:27.620000,We don't have any 22s on us.
+0:31:27.620000,0:31:28.620000,All right.
+0:31:28.620000,0:31:29.620000,Good.
+0:31:29.620000,0:31:30.620000,"Oh, look at this."
+0:31:30.620000,0:31:31.620000,Here we go.
+0:31:31.620000,0:31:32.620000,President of KMI.
+0:31:32.620000,0:31:33.620000,URL.
+0:31:33.620000,0:31:34.620000,Display URL.
+0:31:34.620000,0:31:35.620000,This is pretty nice.
+0:31:35.620000,0:31:40.620000,Should we write a custom Twitter client and replace the Twitter client with something that is fast
+0:31:40.620000,0:31:47.620000,"and lickety-slip we can now that we have secret access to the Twitter API, right?"
+0:31:47.620000,0:31:51.620000,"Like there was an API and then there's an API, right?"
+0:31:51.620000,0:31:54.620000,"And that's like, it's sad when these, these apps do this, right?"
+0:31:54.620000,0:31:56.620000,They have this whole developer API.
+0:31:56.620000,0:32:00.620000,I know maybe it is the same API and I'm just an idiot and searched for GraphQL and just
+0:32:00.620000,0:32:02.620000,they're searches bad.
+0:32:02.620000,0:32:03.620000,"Um, but all right."
+0:32:03.620000,0:32:04.620000,Let's see.
+0:32:04.620000,0:32:06.620000,How can I make a Twitter API getting started?
+0:32:06.620000,0:32:07.620000,Access the Twitter API.
+0:32:07.620000,0:32:08.620000,Okay.
+0:32:08.620000,0:32:09.620000,Okay.
+0:32:09.620000,0:32:10.620000,Okay.
+0:32:10.620000,0:32:11.620000,Okay.
+0:32:11.620000,0:32:12.620000,It seems very complicated.
+0:32:12.620000,0:32:16.620000,I tried to click sign up and they asked me if I was going to like sell my data to governments
+0:32:16.620000,0:32:18.620000,or something and then I got bored.
+0:32:18.620000,0:32:19.620000,So I stopped doing that.
+0:32:19.620000,0:32:22.620000,Like I'll show you what happens if you click sign up.
+0:32:22.620000,0:32:25.620000,Here you go.
+0:32:25.620000,0:32:26.620000,Yeah.
+0:32:26.620000,0:32:36.620000,"So these endpoints don't look anything like these endpoints, which use this GraphQL thing."
+0:32:36.620000,0:32:43.620000,"Now, what's interesting about the GraphQL is I'm not really sure what this is."
+0:32:43.620000,0:32:50.620000,"So when I look at it, it looks like base 64 encoding, but I tried decoding the base 64."
+0:32:50.620000,0:32:54.620000,Now we want to decode.
+0:32:54.620000,0:32:58.620000,"Brow, like this website probably gets so many good leaks and I just get this, which is kind"
+0:32:58.620000,0:32:59.620000,of useless.
+0:32:59.620000,0:33:03.620000,"Um, so that might just not have a user ball thing."
+0:33:03.620000,0:33:10.620000,I have user by rest ID with safety mode user fields with super.
+0:33:10.620000,0:33:13.620000,"But, uh, so you basically make this request."
+0:33:13.620000,0:33:14.620000,"Actually, do we need features?"
+0:33:14.620000,0:33:15.620000,What if I just send various?
+0:33:15.620000,0:33:16.620000,Does that work?
+0:33:16.620000,0:33:19.620000,That is code 200.
+0:33:19.620000,0:33:20.620000,"No, we definitely need features."
+0:33:20.620000,0:33:22.620000,Do we need any of these features?
+0:33:22.620000,0:33:24.620000,We disable that feature.
+0:33:24.620000,0:33:25.620000,400.
+0:33:25.620000,0:33:32.620000,"Oh, I think if we still get a 400, we can maybe get some text."
+0:33:32.620000,0:33:33.620000,"Yeah, yeah, yeah."
+0:33:33.620000,0:33:35.620000,"Okay, the following features cannot be null."
+0:33:35.620000,0:33:42.620000,"Oh, great."
+0:33:42.620000,0:33:54.620000,"See, this is probably one of my most accessible streams yet, because I'm not like doing something"
+0:33:54.620000,0:33:55.620000,that's like crazy hard.
+0:33:55.620000,0:33:57.620000,"I'm doing like hack this box level stuff, you know?"
+0:33:57.620000,0:33:58.620000,I got it.
+0:33:58.620000,0:34:01.620000,I get 71 viewers.
+0:34:01.620000,0:34:07.620000,"Um, there's a following features cannot be null."
+0:34:07.620000,0:34:11.620000,We absolutely need a responsive webql graph timeline.
+0:34:11.620000,0:34:13.620000,What about verified phone label?
+0:34:13.620000,0:34:15.620000,Can I disable that one?
+0:34:15.620000,0:34:17.620000,"No, no, no, that one can't be null either."
+0:34:17.620000,0:34:21.620000,So can I disable these?
+0:34:21.620000,0:34:22.620000,That's a variable.
+0:34:22.620000,0:34:25.620000,That's not a feature query violation.
+0:34:25.620000,0:34:27.620000,Variable has an invalid.
+0:34:27.620000,0:34:30.620000,"Okay, it's probably going to be some way."
+0:34:30.620000,0:34:36.060000,"There's some way in GraphQL to request like, I don't know if variables and features are"
+0:34:36.060000,0:34:37.620000,like a normal part of GraphQL.
+0:34:37.620000,0:34:40.620000,I'm honestly not that familiar with it.
+0:34:40.620000,0:34:43.740000,"There's probably some way to request docs, man."
+0:34:43.740000,0:34:47.620000,"Whenever you can get things to document themselves, that's the best."
+0:34:47.620000,0:34:50.620000,Let's just search for GraphQL Twitter API.
+0:34:50.620000,0:34:52.620000,Maybe someone's just documented it.
+0:34:52.620000,0:34:54.620000,You're building Twitter's public API.
+0:34:54.620000,0:35:03.620000,One more one one.
+0:35:03.620000,0:35:09.620000,"Okay, maybe this is just done the Twitter API."
+0:35:09.620000,0:35:12.620000,Yeah.
+0:35:12.620000,0:35:17.620000,"Notice how this looks different, though."
+0:35:17.620000,0:35:20.620000,These are Twitter I.
+0:35:20.620000,0:35:23.620000,That's 1.1.
+0:35:23.620000,0:35:25.620000,This is Twitter API 2.
+0:35:25.620000,0:35:29.620000,Maybe this is just Twitter API 1.
+0:35:29.620000,0:35:30.620000,"Actually, what?"
+0:35:30.620000,0:35:35.620000,A better thing to search for would probably be user by recipe.
+0:35:35.620000,0:35:38.620000,"Oh, here we go."
+0:35:38.620000,0:35:41.620000,"Okay, so no, this is not the real API."
+0:35:41.620000,0:35:49.620000,"If the first hit is the Twint project and advanced Twitter scraping and open source intelligent tools,"
+0:35:49.620000,0:35:55.620000,"while evading most API limitations, all of them that go into the last search."
+0:35:55.620000,0:36:02.620000,"No authentication, no API, no limits."
+0:36:02.620000,0:36:07.620000,Wow.
+0:36:07.620000,0:36:12.620000,This seems pretty cool.
+0:36:12.620000,0:36:16.620000,Why do they aren't cut?
+0:36:16.620000,0:36:26.620000,Yeah.
+0:36:26.620000,0:36:31.620000,So let's get some more graph.
+0:36:31.620000,0:36:35.620000,Let's get some more high quality graph URLs.
+0:36:35.620000,0:36:36.620000,"Oh, tweet detail."
+0:36:36.620000,0:36:42.620000,Here's another one.
+0:36:42.620000,0:36:53.620000,"Oh, notice that this has a completely different, whatever this is, it's completely different."
+0:36:53.620000,0:36:57.620000,"These are by Rust ID, tweet detail."
+0:36:57.620000,0:36:59.620000,It's a really good list of these somewhere.
+0:36:59.620000,0:37:05.620000,It's at least clone this and take a look.
+0:37:05.620000,0:37:13.620000,It's a little bit different.
+0:37:13.620000,0:37:16.620000,Maybe they have a list of this.
+0:37:16.620000,0:37:22.620000,Maybe someone's already done some work or are us engineering this.
+0:37:22.620000,0:37:29.620000,"No, it seems like interesting that this is different."
+0:37:29.620000,0:37:32.620000,"And they're still using, okay, there's two of them."
+0:37:32.620000,0:37:34.620000,Authorization and yes token.
+0:37:34.620000,0:37:37.620000,So that seems to be important.
+0:37:37.620000,0:37:39.620000,I wonder if that's an older version.
+0:37:39.620000,0:37:46.620000,I wonder if we can change that and still works.
+0:37:46.620000,0:37:48.620000,Queer evaluation.
+0:37:48.620000,0:37:51.620000,Variable with highlighted label.
+0:37:51.620000,0:37:54.620000,I won't make me need that one back.
+0:37:54.620000,0:37:55.620000,Interesting.
+0:37:55.620000,0:37:56.620000,Okay.
+0:37:56.620000,0:37:57.620000,So this is a different version of the API.
+0:37:57.620000,0:38:00.620000,So that's like encoding the version.
+0:38:00.620000,0:38:04.620000,Totally just some hash thing.
+0:38:04.620000,0:38:07.620000,We should try a little harder at that base 64 decode.
+0:38:07.620000,0:38:09.620000,I bet there's some normal graph QL thing.
+0:38:09.620000,0:38:15.620000,Does anyone know graph QL and can just link me something to it?
+0:38:15.620000,0:38:17.620000,Hex down.
+0:38:17.620000,0:38:21.620000,Base 64 decode.
+0:38:21.620000,0:38:23.620000,Let's look at the bytes.
+0:38:23.620000,0:38:26.620000,The bytes never let you down.
+0:38:26.620000,0:38:32.620000,What is it? It's like B64 decode.
+0:38:32.620000,0:38:36.620000,"Oh, it's just like zero."
+0:38:36.620000,0:38:37.620000,Incorrect padding.
+0:38:37.620000,0:38:40.620000,"Okay, so it's not even valid base 64."
+0:38:40.620000,0:38:41.620000,I don't know.
+0:38:41.620000,0:38:44.620000,I'll tell some equals.
+0:38:44.620000,0:38:48.620000,There we go.
+0:38:48.620000,0:38:49.620000,I don't know.
+0:38:49.620000,0:38:52.620000,That could be like a yes or something.
+0:38:52.620000,0:38:55.620000,"Whenever I see, whenever I see 10 random looking bytes there,"
+0:38:55.620000,0:38:58.620000,those bytes were random.
+0:38:58.620000,0:39:01.620000,They look pretty random.
+0:39:01.620000,0:39:03.620000,"Okay, regardless, it doesn't matter."
+0:39:03.620000,0:39:07.620000,We can just get it from Twitter.
+0:39:07.620000,0:39:09.620000,So what else might we want to do?
+0:39:09.620000,0:39:12.620000,We can get details about a tweet.
+0:39:12.620000,0:39:16.620000,We can get user by rest I be.
+0:39:16.620000,0:39:18.620000,User by screen name.
+0:39:18.620000,0:39:20.620000,How do we get user by screen name?
+0:39:20.620000,0:39:22.620000,That's an interesting idea.
+0:39:22.620000,0:39:23.620000,Viewer.
+0:39:23.620000,0:39:26.620000,Here's another one.
+0:39:26.620000,0:39:32.620000,These are secret URLs.
+0:39:32.620000,0:39:34.620000,"You know, I really don't like them."
+0:39:34.620000,0:39:36.620000,They have a completely different API.
+0:39:36.620000,0:39:39.620000,This should be a fact that we have a completely good.
+0:39:39.620000,0:39:41.620000,And this is something we do at common.
+0:39:41.620000,0:39:46.620000,We use for the most part the same API internally as our app users.
+0:39:46.620000,0:39:49.620000,"Right? And if you're not using the same API,"
+0:39:49.620000,0:39:52.620000,the problem is it's just stupid to maintain these two things that are
+0:39:52.620000,0:39:53.620000,basically the same.
+0:39:53.620000,0:39:57.620000,"Right? And you're like, well, okay, but the internal one needs more access."
+0:39:57.620000,0:39:59.620000,"Well, first off, this one is an internal."
+0:39:59.620000,0:40:05.620000,But you should always have your apps accessing through your APIs.
+0:40:05.620000,0:40:10.620000,One of the things that I really like to see with Twitter is a better API.
+0:40:10.620000,0:40:13.620000,And to again allow alternative front-ends.
+0:40:13.620000,0:40:18.620000,"Right? If Twitter moves to a less ad-base than a more monetization-based thing,"
+0:40:18.620000,0:40:21.620000,you should be able to plug the data into anything.
+0:40:21.620000,0:40:24.620000,What you're paying for is access to the back end.
+0:40:24.620000,0:40:26.620000,"And look, I'm happy to pay."
+0:40:26.620000,0:40:30.620000,"Like, I think a lot of people are."
+0:40:30.620000,0:40:32.620000,You and your wife are so cute.
+0:40:32.620000,0:40:33.620000,"Well, thank you."
+0:40:33.620000,0:40:37.620000,"She's not my wife, but thank you."
+0:40:37.620000,0:40:42.620000,Would pay 99 cents a month to watch these as long as they're in 1080p.
+0:40:42.620000,0:40:48.620000,Give you about your $8.
+0:40:48.620000,0:40:51.620000,Might want to censor the authorization header.
+0:40:51.620000,0:40:53.620000,"I'm telling you, it's junk."
+0:40:53.620000,0:41:00.620000,This is literally a virgin chrome browser.
+0:41:00.620000,0:41:04.620000,Convert curl code to request code like magic.
+0:41:04.620000,0:41:05.620000,"Oh, interesting."
+0:41:05.620000,0:41:07.620000,I'm just reading all the comments.
+0:41:07.620000,0:41:11.620000,The dev platform is underutilized by content creators.
+0:41:11.620000,0:41:15.620000,"Yeah, because it's confusing."
+0:41:15.620000,0:41:18.620000,We posted the YouTube. I don't know how here.
+0:41:18.620000,0:41:25.620000,Here's another one. Twitter QL.
+0:41:25.620000,0:41:28.620000,Graph QL host.
+0:41:28.620000,0:41:38.620000,User tweets and replies.
+0:41:38.620000,0:41:43.620000,How come it different for all of those?
+0:41:43.620000,0:41:46.620000,I'm not sure.
+0:41:46.620000,0:41:49.620000,So maybe we should have a goal.
+0:41:49.620000,0:41:52.620000,"W, you're selling the voice in my head when I'm scripting."
+0:41:52.620000,0:41:54.620000,"Yeah, I'm supposed to talk."
+0:41:54.620000,0:41:55.620000,I'm a streamer.
+0:41:55.620000,0:41:57.620000,Is this recorder streamed on YouTube?
+0:41:57.620000,0:42:00.620000,And then some crypto scammers.
+0:42:00.620000,0:42:07.620000,I agree.
+0:42:07.620000,0:42:09.620000,"Wow, a lot of trash."
+0:42:09.620000,0:42:13.620000,Are these real trending topics?
+0:42:13.620000,0:42:15.620000,Can we get real trending topics back?
+0:42:15.620000,0:42:18.620000,"You know, I was the top trending topic in 2010."
+0:42:18.620000,0:42:20.620000,Black rain was the top trending topic.
+0:42:20.620000,0:42:23.620000,I'm hoping the old days of the internet are kind of going to come back.
+0:42:23.620000,0:42:27.620000,"When it's less about, you really do have to wonder what all the people"
+0:42:27.620000,0:42:29.620000,at these companies do.
+0:42:29.620000,0:42:31.620000,You just have to wonder.
+0:42:31.620000,0:42:34.620000,"I look at all this stuff and I'm like,"
+0:42:34.620000,0:42:40.620000,"I don't know, maybe it's arrogance, but I think Twitter could be built and maintained"
+0:42:40.620000,0:42:46.620000,by 20 good engineers.
+0:42:46.620000,0:42:48.620000,Maybe there's something I don't see.
+0:42:48.620000,0:42:49.620000,You know what?
+0:42:49.620000,0:42:51.620000,I think we dove into the front end enough.
+0:42:51.620000,0:42:53.620000,We kind of get how it works.
+0:42:53.620000,0:42:56.620000,We can go and a bunch of people have already done it.
+0:42:56.620000,0:42:59.620000,But I think I get what it is.
+0:42:59.620000,0:43:01.620000,So it's this Graph QL stuff.
+0:43:01.620000,0:43:05.620000,Maybe we can make some guesses that...
+0:43:05.620000,0:43:08.620000,And then it responds with some JavaScript.
+0:43:08.620000,0:43:13.620000,Is there some way to query like Graph QL?
+0:43:13.620000,0:43:17.620000,Like to dump the type system of Graph QL?
+0:43:17.620000,0:43:21.620000,I really appreciate that.
+0:43:21.620000,0:43:28.620000,Graph QL verbose.
+0:43:28.620000,0:43:34.620000,"So what we get interesting things when I like, let's take out user ID."
+0:43:34.620000,0:43:37.620000,Query violation.
+0:43:37.620000,0:43:38.620000,Right?
+0:43:38.620000,0:43:42.620000,So this leaks some information.
+0:43:42.620000,0:43:46.620000,"Yo, you do those webpacking.kr's."
+0:43:46.620000,0:43:48.620000,I think...
+0:43:48.620000,0:43:50.620000,"Actually, what if I comment out two of these?"
+0:43:50.620000,0:43:53.620000,Does it complain about them both or just one?
+0:43:53.620000,0:43:56.620000,"No, it just complains about one."
+0:43:56.620000,0:43:59.620000,So it's the first one.
+0:43:59.620000,0:44:02.620000,Code.
+0:44:02.620000,0:44:11.620000,Let's look at tracing TraysID.
+0:44:11.620000,0:44:24.620000,What did intercept?
+0:44:24.620000,0:44:29.620000,Learn.
+0:44:29.620000,0:44:32.620000,"All right, so quickly, our guys reply,"
+0:44:32.620000,0:44:34.620000,do you want to see me going to back and stuff?
+0:44:34.620000,0:44:41.620000,Or do you want to see me try to learn Scala?
+0:44:41.620000,0:44:42.620000,Exploring Graph QL.
+0:44:42.620000,0:44:44.620000,I feel like I've done these before.
+0:44:44.620000,0:44:46.620000,And there's like pretty cool ways.
+0:44:46.620000,0:44:49.620000,"So you guys, I'll check the Twitter in like five minutes."
+0:44:49.620000,0:44:51.620000,We'll see what the replies are.
+0:44:51.620000,0:44:57.620000,Do you want to see me do Scala tutorials or you want to see me go into the back end
+0:44:57.620000,0:44:59.620000,"and try to make some like numbers about, okay?"
+0:44:59.620000,0:45:01.620000,How big is this thing actually have to be?
+0:45:01.620000,0:45:04.620000,"I read some things where they had like, we're talking about like a hoodoop cluster"
+0:45:04.620000,0:45:07.620000,"with 10,000 nodes."
+0:45:07.620000,0:45:10.620000,"I mean, it just seems wild to me."
+0:45:10.620000,0:45:14.620000,It seems wildly over-engineered for...
+0:45:14.620000,0:45:18.620000,"And again, maybe I'm talking out my ass, but like..."
+0:45:18.620000,0:45:21.620000,There's not that much...
+0:45:21.620000,0:45:27.620000,"There's a few things that make Twitter simpler than a whole bunch of the other services, right?"
+0:45:27.620000,0:45:32.620000,"So first, like..."
+0:45:32.620000,0:45:35.620000,"If you're dealing with something like YouTube,"
+0:45:35.620000,0:45:41.620000,"YouTube, the storage requirements on YouTube are insane."
+0:45:41.620000,0:45:45.620000,"All right, the uploaded data being uploaded to YouTube is petabytes."
+0:45:45.620000,0:45:48.620000,We're going to do this a little at least.
+0:45:48.620000,0:45:51.620000,So let's talk about the back end a little bit.
+0:45:51.620000,0:45:54.620000,So let's say that there's...
+0:45:54.620000,0:45:56.620000,"Well, let's just look it up."
+0:45:56.620000,0:46:03.620000,Number of tweets per day.
+0:46:03.620000,0:46:08.620000,There's over 500 million tweets per day.
+0:46:08.620000,0:46:11.620000,So we have 500 million tweets.
+0:46:11.620000,0:46:16.620000,"Let's say with metadata, it's 1kb per tweet."
+0:46:16.620000,0:46:20.620000,"All right, this is 500 gigabytes per day."
+0:46:20.620000,0:46:25.620000,This is not a lot of data.
+0:46:25.620000,0:46:29.620000,Compare that to something like YouTube.
+0:46:29.620000,0:46:37.620000,"Now to be fair, probably one-tenth of the tweets have either video or images embedded into them."
+0:46:37.620000,0:46:42.620000,Those can pretty much go straight to your CDN. You can have a separate system for this.
+0:46:42.620000,0:46:43.620000,So let's look...
+0:46:43.620000,0:46:46.620000,I'll show you guys when you have an image posted on Twitter.
+0:46:46.620000,0:46:49.620000,This truck here...
+0:46:49.620000,0:46:51.620000,Let's grab that.
+0:46:51.620000,0:46:54.620000,So it's on pbs.twimmage.
+0:46:54.620000,0:46:59.620000,This looks to be where all the images actually are.
+0:46:59.620000,0:47:07.620000,And the images are JavaScript and fonts.
+0:47:07.620000,0:47:09.620000,So that's abs.
+0:47:09.620000,0:47:12.620000,Maybe we can figure out what these things stand for.
+0:47:12.620000,0:47:16.620000,And then video is hosted somewhere else.
+0:47:16.620000,0:47:19.620000,Can I do something like Format equals PNG?
+0:47:19.620000,0:47:22.620000,Does that actually give me a PNG?
+0:47:22.620000,0:47:25.620000,Let's take a look.
+0:47:25.620000,0:47:35.620000,Where is this?
+0:47:35.620000,0:47:38.620000,"Yeah, a constant type image PNG."
+0:47:38.620000,0:47:45.620000,Cool.
+0:47:45.620000,0:47:47.620000,Can we get a BMP?
+0:47:47.620000,0:47:49.620000,Let's see if we can get a BMP.
+0:47:49.620000,0:47:53.620000,Let me put that in quotes.
+0:47:53.620000,0:47:59.620000,I don't know. Lead hackers probably have better ways to do this than holding down the back arrow.
+0:47:59.620000,0:48:02.620000,Should we get a BMP?
+0:48:02.620000,0:48:04.620000,Nope. We got zero bytes.
+0:48:04.620000,0:48:07.620000,BMPs are not supported.
+0:48:07.620000,0:48:09.620000,404. No BMP for you.
+0:48:09.620000,0:48:11.620000,Can we get a GIF?
+0:48:11.620000,0:48:13.620000,Let's see if we can get a GIF.
+0:48:13.620000,0:48:14.620000,"Oh, we got a GIF."
+0:48:14.620000,0:48:16.620000,But it was actually a PNG.
+0:48:16.620000,0:48:18.620000,Okay? So the GIFs are alive.
+0:48:18.620000,0:48:21.620000,Just like the GIFs are alive.
+0:48:21.620000,0:48:26.620000,Let's see if we can do small.
+0:48:26.620000,0:48:28.620000,Small.
+0:48:28.620000,0:48:31.620000,What if we smell small or wrong?
+0:48:31.620000,0:48:32.620000,"Well, can't be found."
+0:48:32.620000,0:48:33.620000,Okay.
+0:48:33.620000,0:48:36.620000,So they have some image injection server that's taking these things in.
+0:48:36.620000,0:48:38.620000,Storing them seems great.
+0:48:38.620000,0:48:40.620000,Resizing them a whole bunch.
+0:48:40.620000,0:48:41.620000,You know.
+0:48:41.620000,0:48:44.620000,That's good.
+0:48:44.620000,0:48:46.620000,So that's what you're doing for images.
+0:48:46.620000,0:48:50.620000,"Okay, now 70 million, 500 million tweets."
+0:48:50.620000,0:48:52.620000,"I mean, that's not nothing."
+0:48:52.620000,0:48:56.620000,Okay. That's actually more than I first thought.
+0:48:56.620000,0:48:58.620000,Here's what they talk about there.
+0:48:58.620000,0:49:00.620000,They're their back end.
+0:49:00.620000,0:49:03.620000,"So like I said, if you want to understand the back end of a company,"
+0:49:03.620000,0:49:06.620000,the best thing to do is to read the engineering blog.
+0:49:06.620000,0:49:09.620000,You'll be getting some basic ideas.
+0:49:09.620000,0:49:11.620000,So these graph are good.
+0:49:11.620000,0:49:13.620000,"I mean, I just want to get an idea."
+0:49:13.620000,0:49:16.620000,"And some of this, you know, is hard to tell from the outside."
+0:49:16.620000,0:49:19.620000,But we can try to figure it out.
+0:49:19.620000,0:49:22.620000,"Like, so we're making this graph QL request, right?"
+0:49:22.620000,0:49:25.620000,"And then somewhere in the back, there's database."
+0:49:25.620000,0:49:26.620000,Right?
+0:49:26.620000,0:49:30.620000,There's a question of how this request actually gets routed to the database.
+0:49:30.620000,0:49:33.620000,"Like I said, I'm not logged in here also."
+0:49:33.620000,0:49:35.620000,"So, I mean, maybe here."
+0:49:35.620000,0:49:36.620000,Let's try a search.
+0:49:36.620000,0:49:37.620000,And let's see.
+0:49:37.620000,0:49:41.620000,Let's search for Twitter.
+0:49:41.620000,0:49:42.620000,Right.
+0:49:42.620000,0:49:48.620000,And then what requests actually happened?
+0:49:48.620000,0:49:51.620000,User by rest ID.
+0:49:51.620000,0:49:53.620000,Now we know all about user by rest ID.
+0:49:53.620000,0:49:57.620000,Where does the search actually happen?
+0:49:57.620000,0:49:59.620000,Search is an interesting one.
+0:49:59.620000,0:50:04.620000,The search is probably handled by a completely different system.
+0:50:04.620000,0:50:05.620000,Then this.
+0:50:05.620000,0:50:07.620000,"I mean, so so far, what requests have we found?"
+0:50:07.620000,0:50:09.620000,We found tweet detail and user by rest ID.
+0:50:09.620000,0:50:15.620000,So those are probably pretty direct access to some kind of database.
+0:50:15.620000,0:50:20.620000,"Now, from this blog post, they say they used Hadoop and Manhattan."
+0:50:20.620000,0:50:25.620000,Manhattan is a custom internally developed distributed key value star.
+0:50:25.620000,0:50:53.620000,"I mean, I'm sticking with what I said about the 20 engineers."
+0:50:53.620000,0:50:59.620000,"I mean, okay, there's not there's not maybe maybe 40 right maybe it takes a bit more because you do have."
+0:50:59.620000,0:51:04.620000,"The thing that makes services hard is when you think about how um,"
+0:51:04.620000,0:51:06.620000,"horizontally scalable they are, right?"
+0:51:06.620000,0:51:11.620000,"The more horizontally scalable a services the better it is, right?"
+0:51:11.620000,0:51:12.620000,"Think about something like WhatsApp, right?"
+0:51:12.620000,0:51:14.620000,WhatsApp is almost perfectly horizontally scalable.
+0:51:14.620000,0:51:15.620000,Right.
+0:51:15.620000,0:51:17.620000,"If it's just if it's just point to point messaging, right?"
+0:51:17.620000,0:51:20.620000,Because I can I can chart all my servers.
+0:51:20.620000,0:51:25.620000,"Okay, it's got to find the sharp and it delivers the message, but that's really no big deal, right?"
+0:51:25.620000,0:51:29.620000,There's Twitter needs to do something like and this is kind of a difficult request.
+0:51:29.620000,0:51:34.620000,"You can think about how it might make it is when it makes your feet, right?"
+0:51:34.620000,0:51:37.620000,Making your feet is a big is a big question.
+0:51:37.620000,0:51:40.620000,"And this is a distinct thing from search, right?"
+0:51:40.620000,0:51:46.620000,"So yeah, like like there's some there's some difficulty there."
+0:51:46.620000,0:51:52.620000,"Um, they've all switched also to these algorithmic feeds instead of just straight up linear feeds."
+0:51:52.620000,0:51:56.620000,I know there's a lot of controversy around that I generally think algorithmic feeds are better.
+0:51:56.620000,0:52:24.620000,"Um, it'd be nice to know what the algorithm is."
+0:52:24.620000,0:52:27.620000,Let's talk about their event processing.
+0:52:27.620000,0:52:29.620000,Let's look into what their event processing stuff is.
+0:52:29.620000,0:52:30.620000,This is also recent.
+0:52:30.620000,0:52:35.620000,"Um, these things do change, but not that quickly."
+0:52:35.620000,0:52:41.620000,"We generate approximately, we approximate 400 billion events every day."
+0:52:41.620000,0:52:44.620000,"Okay, so that's pretty far off from the 500 million tweets."
+0:52:44.620000,0:52:46.620000,So they're saying 400 billion events.
+0:52:46.620000,0:52:50.620000,"Okay, you're also going to have to deal with likes and stuff, right?"
+0:52:50.620000,0:52:55.620000,So you can think about how that might be represented in something like a table.
+0:52:55.620000,0:53:10.620000,"Uh, there's various event sources we consume data from and they're produced in different platforms and storage systems such as Hadoop, Vertica."
+0:53:10.620000,0:53:13.620000,"Okay, I've never heard of this one."
+0:53:13.620000,0:53:30.620000,"Uh, Vertica Analytics platform."
+0:53:30.620000,0:53:33.620000,What does it do?
+0:53:33.620000,0:53:44.620000,Analytics database management software company.
+0:53:44.620000,0:53:46.620000,"That's too many words, man."
+0:53:46.620000,0:53:48.620000,The column oriented.
+0:53:48.620000,0:53:51.620000,"Okay, I've heard something about this."
+0:53:51.620000,0:53:56.620000,It's always data is by columns rather than rows.
+0:53:56.620000,0:53:58.620000,"Okay, well, they use it."
+0:53:58.620000,0:54:02.620000,"Um, Manhattan distributed databases, they're custom thing."
+0:54:02.620000,0:54:11.620000,So Hadoop means a lot of things to Hadoop is a is a like really large thing.
+0:54:11.620000,0:54:16.620000,"But I assume when they say that they have storage in Hadoop, they mean HDFS."
+0:54:16.620000,0:54:21.620000,HDFS is Hadoop's storage system.
+0:54:21.620000,0:54:25.620000,I remember also reading that they were storing things in in thrift.
+0:54:25.620000,0:54:35.620000,"Um, I haven't seen thrift since I worked at Facebook, uh, but thrift is, uh, thrift is, uh, similar to it."
+0:54:35.620000,0:54:41.620000,"It's kind of like ProtoBuff, but I think it also includes, uh, like an IPC system."
+0:54:41.620000,0:54:43.620000,"Uh, maybe it can be a RPC."
+0:54:43.620000,0:54:46.620000,"It's some, some, some, there might even have a RPC built on top there, right?"
+0:54:46.620000,0:54:51.620000,"You can think of like a, uh, there's like, look like CMQ if you want to understand."
+0:54:51.620000,0:54:56.620000,CMQ's docs are pretty good to understand any IPC.
+0:54:56.620000,0:54:57.620000,"Okay, Kafka."
+0:54:57.620000,0:55:05.620000,This is another Apache Kafka open source event streaming platform.
+0:55:05.620000,0:55:08.620000,"It gets into, it gets into fancy stuff."
+0:55:08.620000,0:55:20.620000,"Um, that comma, like, so we wrote our own, um, we wrote our own, uh, distributed fastest on,"
+0:55:20.620000,0:55:22.620000,because they were all just so complex.
+0:55:22.620000,0:55:28.620000,"And yeah, I mean, when you do deal with these very complex things, you end up needing like multiple engineers just to maintain them, right?"
+0:55:28.620000,0:55:33.620000,"To maintain this large cluster and deal with, you know, who knows how it might go down."
+0:55:33.620000,0:55:36.620000,I'm surprised that things are as robust as they are.
+0:55:36.620000,0:55:43.620000,"But, uh, so this is what we use internally to store our pay to bytes of, uh, video data."
+0:55:43.620000,0:55:51.620000,The old architecture is shown below.
+0:55:51.620000,0:55:55.620000,New architecture on Kafka and data flow.
+0:55:55.620000,0:55:58.620000,"Yeah, they said they were talking a lot about how they moved to Google Cloud."
+0:55:58.620000,0:56:16.620000,"Oh, you guys, I got a big private life."
+0:56:16.620000,0:56:34.620000,Okay.
+0:56:34.620000,0:56:36.620000,400 billion events.
+0:56:36.620000,0:56:40.620000,"Okay, so what does this say about how they're doing here events?"
+0:56:40.620000,0:56:46.620000,"Sorry, I like got distracted. This was like confusing. New architecture."
+0:56:46.620000,0:56:52.620000,Real-time pipelines on Kafka and data flow.
+0:56:52.620000,0:57:14.620000,Patch compute clause latency. What's a hair on?
+0:57:14.620000,0:57:26.620000,"They're therapeutics. Let's see, let's read the comments. If you're wondering about those IDs, they're just string constants probably for versioning."
+0:57:26.620000,0:57:40.620000,"Wait. Oh, that's a really good idea. Why did I not just look in the, in the, in the, yeah, I can just look in the, uh, we're just looking at scripts."
+0:57:40.620000,0:57:46.620000,"That's smart. That's not internal, you're not internal to Twitter doing that."
+0:57:46.620000,0:57:52.620000,"Are you? Uh, so we're the script shows to ABS Twitter.com, responsive client web legacy."
+0:57:52.620000,0:58:00.620000,"Um, main JS. Yeah, that's a good idea. So we'll just search in here for user by rest ID."
+0:58:00.620000,0:58:06.620000,"Uh, I was, there's a pretty five here. Is there not? So what this does?"
+0:58:06.620000,0:58:16.620000,Can I pretty fly this? How did you get yours to be pretty?
+0:58:16.620000,0:58:30.620000,"Uh, online JavaScript, beautify. I paste in that huge beautify code."
+0:58:30.620000,0:58:42.620000,"Of course, written in JavaScript and take forever. Um, we have all the features, which is there too. That's cool."
+0:58:42.620000,0:58:50.620000,That's really slow. Let's just create a new file called main.js.
+0:58:50.620000,0:58:58.620000,"Um, I can do this in here. Kind of not. Yo, for Ross, man, he's everywhere."
+0:58:58.620000,0:59:10.620000,"Uh, okay. You're plug in pretty five VS code, pretty five JS."
+0:59:10.620000,0:59:16.620000,"Uh, beautify a JavaScript file on safe."
+0:59:16.620000,0:59:28.620000,"Search for beautify. Oh, I need this."
+0:59:28.620000,0:59:44.620000,"You purify. Json, I want JavaScript. Formatter."
+0:59:44.620000,0:59:50.620000,Prittier code formatting using prettier. That sounds good.
+0:59:50.620000,1:00:00.620000,A lot of people use it. Command shift P. Okay. Command shift P.
+1:00:00.620000,1:00:12.620000,"Pretty, pretty or create configuration file. No. Command shift P."
+1:00:12.620000,1:00:22.620000,"All right. We do this. What? Select the tasks you want to want, which is command."
+1:00:22.620000,1:00:30.620000,Command shift P. Pretty fly. Let's create configuration file.
+1:00:30.620000,1:00:36.620000,No. Code snippets for JavaScript. No.
+1:00:36.620000,1:00:44.620000,Pretty or formatted. Pretty or code format. I don't understand.
+1:00:44.620000,1:00:50.620000,"Using command palette. A format document. Oh, God, I can't read."
+1:00:50.620000,1:00:54.620000,Format document. There are multiple formatters for the JavaScript.
+1:00:54.620000,1:01:00.620000,"One of them should be configured. All right. It's doing something, I think."
+1:01:00.620000,1:01:04.620000,There's a bar there moving. Did this pretty fun in my JavaScript?
+1:01:04.620000,1:01:12.620000,I don't know what editor using. Live streaming myself coding at the suck for the viewer.
+1:01:12.620000,1:01:20.620000,With encrypted responses in proto buffs. What's this?
+1:01:20.620000,1:01:26.620000,"Elephant bird is Twitter's open source library of LCO, thrift, and or protocol buffer related."
+1:01:26.620000,1:01:34.620000,I'm going to do input formats. Okay. We're good.
+1:01:34.620000,1:01:40.620000,Scale sounds. The sky sounds more fun and hardcore. We'll do a little
+1:01:40.620000,1:01:56.620000,"bit more. Oh, the pretty fly. Oh, press the button. Oh, yo, let's go."
+1:01:56.620000,1:02:00.620000,"That was so boss. Bro, I'm a like that tweet."
+1:02:00.620000,1:02:04.620000,"Yo, Yaroslav coming through. Coming through with the legit."
+1:02:04.620000,1:02:08.620000,"Yo, this shows you. I don't know anything about the front end."
+1:02:08.620000,1:02:12.620000,"I'll use her by rest ID. Oh, look, this is so nice."
+1:02:12.620000,1:02:16.620000,"Bro, who wants to send user by screen name? Let's go."
+1:02:16.620000,1:02:22.620000,Let's go and lead Twitter hackers boys. We're lead Twitter hackers.
+1:02:22.620000,1:02:26.620000,"Oh, yes, let's go."
+1:02:30.620000,1:02:36.620000,"User by screen name. Now, let's do that."
+1:02:36.620000,1:02:40.620000,"Now it's going to bitch me. Maybe that yo, but you can't use that because you're"
+1:02:40.620000,1:02:44.620000,not sending the right thing. So we're going to send the right thing. Okay.
+1:02:44.620000,1:02:50.620000,"Variable screen name has an invalid value. All right. Well, let's use screen name."
+1:02:50.620000,1:02:56.620000,Screen name is realtor shots. Is that going to be me?
+1:02:56.620000,1:03:00.620000,"Oh, look at that. Wait, wait, wait, wait, wait, wait."
+1:03:00.620000,1:03:06.620000,"Now, does this API give us lead super user access or we can see ban people?"
+1:03:08.620000,1:03:12.620000,"Twitter suspends accounts that violate the Twitter rules. I'm sorry, real Donald Trump."
+1:03:12.620000,1:03:16.620000,You still can't be accessed even through the API.
+1:03:16.620000,1:03:20.620000,"Yo, how nice is that though. All right. Look. Oh, we got all this stuff."
+1:03:20.620000,1:03:24.620000,"Oh, cool. Yeah. Oh, look at this. This is the lead list."
+1:03:24.620000,1:03:28.620000,I was just copy and paste this list. This list looks so useful.
+1:03:28.620000,1:03:34.620000,Moderate tweet. Can we moderate other people? Can we edit tweets?
+1:03:34.620000,1:03:38.620000,"Bro, did we just find the secret edit button?"
+1:03:38.620000,1:03:46.620000,"Okay. Um, let's copy and paste this. Oh, we want stuff to be add free."
+1:03:46.620000,1:03:52.620000,We might be able to do that. Okay. So we found the secret Twitter API.
+1:03:52.620000,1:03:56.620000,"You know, they talk about how this is a secret good open pilot. Well, that's not real."
+1:03:56.620000,1:04:02.620000,But the secret good Twitter API exists. I just call this api.js.
+1:04:02.620000,1:04:10.620000,"And paste that there. Okay. Cool. Um, pretty over the scam."
+1:04:10.620000,1:04:14.620000,All right. What do we want to know?
+1:04:14.620000,1:04:20.620000,Can I like filter all just the ones that use the word operation name?
+1:04:20.620000,1:04:24.620000,"Because it's all we kind of care about, right?"
+1:04:24.620000,1:04:30.620000,"Oh, I think there's probably like ways to do this if I actually knew JavaScript."
+1:04:30.620000,1:04:32.620000,Let's just look to and see if there's anything cool.
+1:04:32.620000,1:04:36.620000,So for edit.
+1:04:36.620000,1:04:40.620000,"Oh, that's cool. Check tweet."
+1:04:40.620000,1:04:44.620000,Nudge community by rest ID community. Reorder rules.
+1:04:44.620000,1:04:49.620000,"Quest to join community. Oh, this is the secret secret Twitter API guys."
+1:04:49.620000,1:04:52.620000,Secret Twitter API.
+1:04:52.620000,1:04:56.620000,Wait a second.
+1:04:56.620000,1:04:58.620000,Bro.
+1:04:58.620000,1:05:04.620000,Wait. Should we download a tweet?
+1:05:04.620000,1:05:08.620000,Create tweet down vote.
+1:05:08.620000,1:05:10.620000,I wonder how that works.
+1:05:10.620000,1:05:14.620000,Delete. Retweet. Delete. Schedule. Tweet.
+1:05:14.620000,1:05:20.620000,DM. New. Time line. Edit. Draft. Tweet. Edit. Schedule. Tweet.
+1:05:20.620000,1:05:24.620000,We can edit a normal tweet.
+1:05:24.620000,1:05:28.620000,We can check followers.
+1:05:28.620000,1:05:30.620000,What else we got?
+1:05:30.620000,1:05:34.620000,We can see noteworthy accounts.
+1:05:34.620000,1:05:37.620000,You can pin replies. Okay. That kind of makes sense.
+1:05:37.620000,1:05:40.620000,We can enroll coupons. We can remove a follower.
+1:05:40.620000,1:05:43.620000,Should we remove a follower?
+1:05:43.620000,1:05:45.620000,What follower do we not like?
+1:05:45.620000,1:05:50.620000,We can't get a single safety mode setting. That sounds good.
+1:05:50.620000,1:05:54.620000,Trusted friends. Tweet edit history.
+1:05:54.620000,1:05:59.620000,Twitter article. Delete. You know what? I just want operation names.
+1:05:59.620000,1:06:02.620000,I know. Wait. What am I thinking?
+1:06:02.620000,1:06:07.620000,How have I spent my life in the text editor for so long that I forgot how to grip.
+1:06:07.620000,1:06:09.620000,Shame on me.
+1:06:09.620000,1:06:11.620000,Let's grip.
+1:06:11.620000,1:06:15.620000,Yeah. Now we're talking.
+1:06:15.620000,1:06:19.620000,We'll put that into api.
+1:06:19.620000,1:06:23.620000,.js. Yeah. Here we go.
+1:06:23.620000,1:06:25.620000,Look. That's so much nicer.
+1:06:25.620000,1:06:29.620000,I want to even throw that through sort.
+1:06:29.620000,1:06:31.620000,Sort.
+1:06:31.620000,1:06:35.620000,Guys. I love pipes. I love the command line.
+1:06:35.620000,1:06:40.620000,All right. Who birdwatch? Create a peel.
+1:06:40.620000,1:06:48.620000,We can't edit tweets. You can only edit schedule tweets.
+1:06:48.620000,1:06:52.620000,And I assume favorite means the same thing as like.
+1:06:52.620000,1:06:54.620000,Like.
+1:06:54.620000,1:06:56.620000,Favorite tweet. Unmoderate.
+1:06:56.620000,1:07:01.620000,Can I moderate tweets? Or I can moderate tweets.
+1:07:01.620000,1:07:04.620000,"Well, this is the secret Twitter API."
+1:07:04.620000,1:07:09.620000,So the secret good Twitter API is here.
+1:07:09.620000,1:07:11.620000,Cool.
+1:07:11.620000,1:07:17.620000,All right. Let's go back to where we were.
+1:07:17.620000,1:07:19.620000,Thank you. Thank you.
+1:07:19.620000,1:07:22.620000,"By the way, to those to the people who are."
+1:07:22.620000,1:07:28.620000,We sent me that. I'm gonna be right back.
+1:07:28.620000,1:07:40.620000,"Bro, we got a phone in the door."
+1:07:58.620000,1:08:16.620000,So I think GraphQL.
+1:08:16.620000,1:08:19.620000,Let's just do a little more searching into GraphQL.
+1:08:19.620000,1:08:22.620000,I don't think it's specified anything about the database.
+1:08:22.620000,1:08:25.620000,I don't think it actually tells us anything about the front end.
+1:08:25.620000,1:08:30.620000,Maybe we got something good.
+1:08:30.620000,1:08:34.620000,All right. We have 1300 viewers.
+1:08:34.620000,1:08:40.620000,That's cool.
+1:08:40.620000,1:08:43.620000,Encrypted response. It's not encrypted.
+1:08:43.620000,1:08:45.620000,It just looks like nothing.
+1:08:45.620000,1:08:48.620000,It's just a version.
+1:08:48.620000,1:08:52.620000,This query ID thing doesn't seem like it's really anything.
+1:08:52.620000,1:08:57.620000,"Oh, GraphQL introspection."
+1:08:57.620000,1:09:02.620000,Okay. GraphQL allows us to do this.
+1:09:02.620000,1:09:04.620000,What?
+1:09:04.620000,1:09:07.620000,By querying the schema field.
+1:09:07.620000,1:09:14.620000,Always available on the root type of a query.
+1:09:14.620000,1:09:18.620000,How do I do that?
+1:09:18.620000,1:09:28.620000,Let's try it. What if I go schema instead?
+1:09:28.620000,1:09:37.620000,4.4.
+1:09:37.620000,1:09:45.620000,This would probably help if I like to understand what GraphQL was.
+1:09:45.620000,1:09:50.620000,GraphQL introspection.
+1:09:50.620000,1:09:52.620000,Should I search for four noobs?
+1:09:52.620000,1:09:54.620000,Sometimes you add for noobs.
+1:09:54.620000,1:09:57.620000,They help you.
+1:09:57.620000,1:10:05.620000,"Oh, here. GraphQL playground."
+1:10:05.620000,1:10:15.620000,Quest. No. No. I don't know how this works.
+1:10:15.620000,1:10:22.620000,Let's schema.
+1:10:22.620000,1:10:30.620000,I don't do anything.
+1:10:30.620000,1:10:35.620000,Fetch existing types.
+1:10:35.620000,1:10:41.620000,Schema query type.
+1:10:41.620000,1:10:46.620000,"Oh, do I put schema here?"
+1:10:46.620000,1:10:48.620000,I don't know. I'm just guessing.
+1:10:48.620000,1:10:51.620000,I don't think any of this is right.
+1:10:51.620000,1:10:55.620000,How do I have GraphQL works?
+1:10:55.620000,1:10:58.620000,"Oh, what is this type name user?"
+1:10:58.620000,1:11:00.620000,The schema?
+1:11:00.620000,1:11:03.620000,"No, let me do anything."
+1:11:03.620000,1:11:05.620000,So it just says that.
+1:11:05.620000,1:11:12.620000,"Okay, whatever."
+1:11:12.620000,1:11:13.620000,You know what?
+1:11:13.620000,1:11:16.620000,First commit is changing tab space for two to three.
+1:11:16.620000,1:11:19.620000,"Yo, if they use three spaces, I'm out."
+1:11:19.620000,1:11:21.620000,I'm out. I can't work with a company that uses three spaces.
+1:11:21.620000,1:11:27.620000,That's impossible.
+1:11:27.620000,1:11:31.620000,It's pronounced GIF.
+1:11:31.620000,1:11:33.620000,Imagine if George was down to be a technical co-founder.
+1:11:33.620000,1:11:37.620000,Why would I found a company with someone non-technical?
+1:11:37.620000,1:11:39.620000,Does he have access to the code base?
+1:11:39.620000,1:11:40.620000,"No, I don't have shit."
+1:11:40.620000,1:11:43.620000,Yet another Elon fan joined us.
+1:11:43.620000,1:11:45.620000,Would like to see you get root and replace the blue check
+1:11:45.620000,1:11:48.620000,with an icon determined by an hourly Twitter pool.
+1:11:48.620000,1:11:51.620000,Should we get root?
+1:11:51.620000,1:11:59.620000,"Wait, how do you livestream to Twitter?"
+1:11:59.620000,1:12:02.620000,You got to be elite like me.
+1:12:02.620000,1:12:05.620000,"Oh, yeah, I don't know React."
+1:12:05.620000,1:12:07.620000,"I mean, whatever."
+1:12:07.620000,1:12:09.620000,"You know, it's like a single those."
+1:12:09.620000,1:12:11.620000,You can figure anything out.
+1:12:11.620000,1:12:12.620000,Look at that.
+1:12:12.620000,1:12:15.620000,"The renders are rat in my thing, man."
+1:12:15.620000,1:12:17.620000,That's cool.
+1:12:17.620000,1:12:18.620000,400 bad request.
+1:12:18.620000,1:12:22.620000,"If you ask me, I did kind of know that."
+1:12:22.620000,1:12:23.620000,Okay.
+1:12:23.620000,1:12:24.620000,What were we going to do?
+1:12:24.620000,1:12:25.620000,"Oh, yeah."
+1:12:25.620000,1:12:27.620000,We were just talking in general about the back end.
+1:12:27.620000,1:12:28.620000,Okay.
+1:12:28.620000,1:12:37.620000,There are 400 billion events going through Apache Kafka.
+1:12:37.620000,1:12:43.620000,Probably billions of events in real time.
+1:12:43.620000,1:12:48.620000,"Okay, paid what scale every day, various events also."
+1:12:48.620000,1:12:50.620000,We can send data from every user in different projects.
+1:12:50.620000,1:12:55.620000,"For instance, I'm sorry to write this."
+1:13:03.620000,1:13:07.620000,"Kafka topics, event processor."
+1:13:07.620000,1:13:08.620000,Cloud.
+1:13:08.620000,1:13:15.620000,Did they really just move everything to Bigtable and Dataflow?
+1:13:15.620000,1:13:17.620000,Why did they do this?
+1:13:25.620000,1:13:30.620000,"Processing and relay event processing, which converts Kafka topic events"
+1:13:30.620000,1:13:36.620000,to Pub some topics with at least one semantics.
+1:13:36.620000,1:13:39.620000,I've tried to use these things.
+1:13:39.620000,1:13:42.620000,"First off, they love Java."
+1:13:42.620000,1:13:46.620000,A lot of this Apache stuff is deep in the Java land.
+1:13:46.620000,1:13:50.620000,"We wrote it on Pipeline.com, too, because I was sick of the complexity of all of this."
+1:13:50.620000,1:13:55.620000,We had a dead simple pipeline for processing all our em all stuff.
+1:13:55.620000,1:13:57.620000,"And then, we wrote this thing."
+1:13:57.620000,1:14:00.620000,I wrote this thing at the end of last year called Mini-Ray.
+1:14:00.620000,1:14:04.620000,"Mini-Ray is like a Ray, but Mini."
+1:14:04.620000,1:14:11.620000,And just user-existing pipeline is basically like you can run a chunk of Python code across the whole comic or pew cluster.
+1:14:11.620000,1:14:13.620000,Like nicely.
+1:14:13.620000,1:14:15.620000,I was pretty happy with that.
+1:14:15.620000,1:14:21.620000,"I spent like a month writing garbage, and then like I wrote that and it was 100 lines and it was good."
+1:14:24.620000,1:14:31.620000,"Alright, let's do a few scallot tutorials and then we'll call tonight."
+1:14:31.620000,1:14:36.620000,We're a hacker-ing Scala.
+1:14:36.620000,1:14:38.620000,Scala basic.
+1:14:38.620000,1:14:40.620000,View all skills.
+1:14:40.620000,1:14:42.620000,Scala.
+1:14:42.620000,1:14:44.620000,"I've got to learn Scala, guys."
+1:14:44.620000,1:14:45.620000,Basic.
+1:14:45.620000,1:14:48.620000,View all to what?
+1:14:48.620000,1:14:51.620000,Okay.
+1:14:51.620000,1:14:56.620000,Gonna create an account.
+1:14:56.620000,1:15:03.620000,"Hang on, I'm just gonna create it for all the way."
+1:15:03.620000,1:15:13.620000,Alright.
+1:15:13.620000,1:15:15.620000,I'm here to prepare for job interviews.
+1:15:15.620000,1:15:18.620000,I'm a working professional.
+1:15:18.620000,1:15:22.620000,I've been a professional developer for more than 10 years.
+1:15:22.620000,1:15:25.620000,I have my interview in a week.
+1:15:25.620000,1:15:27.620000,What about tomorrow?
+1:15:27.620000,1:15:30.620000,Okay.
+1:15:30.620000,1:15:32.620000,Guys.
+1:15:32.620000,1:15:34.620000,Okay.
+1:15:34.620000,1:15:35.620000,Print.
+1:15:35.620000,1:15:36.620000,Hello world.
+1:15:36.620000,1:15:37.620000,I'll make this big.
+1:15:37.620000,1:15:38.620000,"No, no, no, no."
+1:15:38.620000,1:15:39.620000,"We can't use closure, guys."
+1:15:39.620000,1:15:42.620000,We're gonna use Scala.
+1:15:42.620000,1:15:43.620000,Okay.
+1:15:43.620000,1:15:47.620000,DefFprintLN HelloWorld.
+1:15:47.620000,1:15:52.620000,Smithcode.
+1:15:52.620000,1:15:54.620000,Did I pass?
+1:15:54.620000,1:15:55.620000,I think I passed.
+1:15:55.620000,1:15:56.620000,Okay.
+1:15:56.620000,1:15:57.620000,Next challenge.
+1:15:57.620000,1:15:58.620000,Let's go.
+1:15:58.620000,1:16:01.620000,Print HelloWorldN times.
+1:16:01.620000,1:16:02.620000,Uh-oh.
+1:16:02.620000,1:16:03.620000,No.
+1:16:03.620000,1:16:04.620000,Okay.
+1:16:04.620000,1:16:12.620000,Object solution extent tap.
+1:16:12.620000,1:16:17.620000,This will be the outline of your function body.
+1:16:17.620000,1:16:21.620000,Okay.
+1:16:21.620000,1:16:24.620000,Do I put this inside the object?
+1:16:24.620000,1:16:27.620000,That solution that extends app?
+1:16:27.620000,1:16:28.620000,Uh-deaf?
+1:16:28.620000,1:16:29.620000,"F, which is it?"
+1:16:29.620000,1:16:30.620000,Okay.
+1:16:30.620000,1:16:32.620000,Maybe we should read some Scala code first.
+1:16:32.620000,1:16:38.620000,FizzBuzzScala.
+1:16:38.620000,1:16:39.620000,Alright.
+1:16:39.620000,1:16:40.620000,Alright.
+1:16:40.620000,1:16:46.620000,That looks doable.
+1:16:46.620000,1:16:47.620000,Okay.
+1:16:47.620000,1:16:52.620000,One until 100 math.
+1:16:52.620000,1:16:53.620000,Okay.
+1:16:53.620000,1:16:54.620000,"Wait, wait, wait."
+1:16:54.620000,1:16:55.620000,Okay.
+1:16:55.620000,1:16:56.620000,"Guys, I don't know if I'm allowed."
+1:16:56.620000,1:16:57.620000,I'm cheating right now.
+1:16:57.620000,1:16:58.620000,I'm cheating at my interview right now.
+1:16:58.620000,1:16:59.620000,I'm using this.
+1:16:59.620000,1:17:01.620000,Because we're gonna try that.
+1:17:01.620000,1:17:02.620000,Okay.
+1:17:02.620000,1:17:03.620000,"People are like,"
+1:17:03.620000,1:17:05.620000,our George doesn't actually know Scala.
+1:17:05.620000,1:17:08.620000,No one's gonna respect me at Twitter.
+1:17:08.620000,1:17:09.620000,Alright.
+1:17:09.620000,1:17:12.620000,So we need to do a for loop.
+1:17:12.620000,1:17:14.620000,So we're gonna do for.
+1:17:14.620000,1:17:21.620000,We're gonna do for tap-f for i equals zero to n.
+1:17:26.620000,1:17:27.620000,Okay.
+1:17:27.620000,1:17:29.620000,We got to print many Hello World.
+1:17:29.620000,1:17:31.620000,So we're gonna use Hello World.
+1:17:31.620000,1:17:34.620000,How do I print things again in Scala?
+1:17:34.620000,1:17:39.620000,Print LN Hello World.
+1:17:39.620000,1:17:40.620000,Alright.
+1:17:40.620000,1:17:46.620000,Is Scala?
+1:17:46.620000,1:17:47.620000,Uh-oh.
+1:17:47.620000,1:17:51.620000,I did not write good Scala.
+1:17:51.620000,1:17:55.620000,"Expect it, Alpula, and what did my thing output?"
+1:17:55.620000,1:17:56.620000,Not oh.
+1:17:56.620000,1:17:57.620000,Oh.
+1:17:57.620000,1:18:00.620000,Wait.
+1:18:00.620000,1:18:06.620000,Unlock this test case for five hackos.
+1:18:06.620000,1:18:07.620000,Compiler message.
+1:18:07.620000,1:18:08.620000,Wrong answer.
+1:18:08.620000,1:18:15.620000,"Oh, is it because Scala is one of those languages?"
+1:18:15.620000,1:18:18.620000,"Correct, guys."
+1:18:18.620000,1:18:20.620000,I didn't use any hackos.
+1:18:20.620000,1:18:21.620000,The Scrape.
+1:18:21.620000,1:18:22.620000,I didn't use any hackos.
+1:18:22.620000,1:18:23.620000,Okay.
+1:18:23.620000,1:18:24.620000,Give it a list.
+1:18:24.620000,1:18:28.620000,Repeat each element in the list and amount of times.
+1:18:28.620000,1:18:34.620000,Okay.
+1:18:34.620000,1:18:36.620000,Uh-oh.
+1:18:36.620000,1:18:46.620000,Where's my template?
+1:18:46.620000,1:18:47.620000,Wow.
+1:18:47.620000,1:18:48.620000,We got viewers.
+1:18:48.620000,1:18:49.620000,Alright.
+1:18:49.620000,1:18:50.620000,People are liking the Scala.
+1:18:50.620000,1:18:53.620000,You're watching me not be good at Scala.
+1:18:53.620000,1:18:54.620000,Okay.
+1:18:54.620000,1:18:55.620000,Um.
+1:18:55.620000,1:19:00.620000,This will be the outline of your function body.
+1:19:00.620000,1:19:02.620000,Oh.
+1:19:02.620000,1:19:03.620000,Okay.
+1:19:03.620000,1:19:06.620000,Def.
+1:19:06.620000,1:19:07.620000,Uh-oh.
+1:19:07.620000,1:19:08.620000,Okay.
+1:19:08.620000,1:19:10.620000,Who are?
+1:19:10.620000,1:19:12.620000,I.
+1:19:12.620000,1:19:13.620000,Oh no.
+1:19:13.620000,1:19:14.620000,Don't tell me.
+1:19:14.620000,1:19:15.620000,Don't tell me.
+1:19:15.620000,1:19:16.620000,Wait.
+1:19:16.620000,1:19:19.620000,Can we install Scala on my thing so I can play around a little bit?
+1:19:19.620000,1:19:21.620000,Can I get like a Scala prompt?
+1:19:21.620000,1:19:24.620000,Brew install Scala.
+1:19:24.620000,1:19:25.620000,Ah.
+1:19:25.620000,1:19:26.620000,Brew install Scala.
+1:19:26.620000,1:19:27.620000,JVM based.
+1:19:27.620000,1:19:28.620000,I have everything.
+1:19:28.620000,1:19:30.620000,"Good spot on the JVM, man."
+1:19:30.620000,1:19:33.620000,So how do I use Scala?
+1:19:33.620000,1:19:34.620000,Hmm.
+1:19:34.620000,1:19:42.620000,Maybe we should do some Scala tutorials first.
+1:19:42.620000,1:19:47.620000,Where is Twitter really written in Scala or am I being trolled?
+1:19:47.620000,1:19:48.620000,Oh.
+1:19:48.620000,1:19:53.620000,Scala school started as a lectures to prepare experienced engineers to become productive Scala programmers.
+1:19:53.620000,1:19:55.620000,"Oh, look at this."
+1:19:55.620000,1:20:00.620000,The first few weeks will cover basic syntax and concepts.
+1:20:00.620000,1:20:02.620000,"Bro, I need something to nice."
+1:20:02.620000,1:20:03.620000,Tonight.
+1:20:03.620000,1:20:05.620000,"Oh, good, good, good, good, good."
+1:20:05.620000,1:20:06.620000,All right.
+1:20:06.620000,1:20:07.620000,Great.
+1:20:07.620000,1:20:08.620000,I'm glad that it depends on.
+1:20:08.620000,1:20:10.620000,"Oh my god, we're installing X-11."
+1:20:10.620000,1:20:11.620000,Okay.
+1:20:11.620000,1:20:12.620000,Scala.
+1:20:12.620000,1:20:16.620000,You can give the result of the expression and name.
+1:20:16.620000,1:20:21.620000,"Hey, we already did two hacker rings, okay?"
+1:20:21.620000,1:20:22.620000,So where leads?
+1:20:22.620000,1:20:26.620000,Hacker rings Scala's.
+1:20:26.620000,1:20:28.620000,You can create functions with death.
+1:20:28.620000,1:20:32.620000,"Well, that would have been nice to know before I didn't fail the creating functions."
+1:20:32.620000,1:20:34.620000,You can create anonymous functions.
+1:20:34.620000,1:20:35.620000,Ooh.
+1:20:35.620000,1:20:37.620000,That's cool.
+1:20:37.620000,1:20:41.620000,You can partially apply a function with a underscore.
+1:20:41.620000,1:20:42.620000,I see.
+1:20:42.620000,1:20:43.620000,Add two.
+1:20:43.620000,1:20:44.620000,I don't know how to do it.
+1:20:44.620000,1:20:45.620000,Cool.
+1:20:45.620000,1:20:48.620000,You can carry the functions.
+1:20:48.620000,1:20:52.620000,"Ooh, you understand."
+1:20:52.620000,1:20:55.620000,You can fill in the first parameter and partially apply the second.
+1:20:55.620000,1:20:56.620000,But why can't I?
+1:20:56.620000,1:20:57.620000,I wonder if I just don't do that.
+1:20:57.620000,1:21:00.620000,What if I just set it to that?
+1:21:00.620000,1:21:01.620000,That's the currying I know.
+1:21:01.620000,1:21:05.620000,I don't need that extra thing there.
+1:21:05.620000,1:21:13.620000,Partially apply the second one.
+1:21:13.620000,1:21:15.620000,Curried add.
+1:21:15.620000,1:21:17.620000,"Wait, what?"
+1:21:17.620000,1:21:19.620000,Is installing Python 311?
+1:21:19.620000,1:21:23.620000,Is that the new Python?
+1:21:23.620000,1:21:26.620000,Where's Python 312?
+1:21:26.620000,1:21:28.620000,"Oh, Python 312."
+1:21:28.620000,1:21:34.620000,"Oh my god, guys, we're installing the whole world here, guys."
+1:21:34.620000,1:21:37.620000,"All right, 2000 viewers."
+1:21:37.620000,1:21:40.620000,Let's go.
+1:21:40.620000,1:21:46.620000,Curried functions.
+1:21:46.620000,1:21:52.620000,Effective Scala.
+1:21:52.620000,1:21:54.620000,"Oh, no, no."
+1:21:54.620000,1:21:56.620000,"Okay, there's no such thing as effective Scala."
+1:21:56.620000,1:21:57.620000,That's good.
+1:21:57.620000,1:22:00.620000,Scala line documentation or in Scala.
+1:22:00.620000,1:22:03.620000,Install Scala on your computer.
+1:22:03.620000,1:22:05.620000,The SPT built.
+1:22:05.620000,1:22:06.620000,"Oh, is this done yet?"
+1:22:06.620000,1:22:07.620000,"No, it's not done."
+1:22:07.620000,1:22:21.620000,We have to pour the add way to icon.
+1:22:21.620000,1:22:24.620000,"Okay, let's come back to here."
+1:22:24.620000,1:22:31.620000,"Now that we've learned Scala, let's apply what we've learned."
+1:22:31.620000,1:22:36.620000,"Okay, how do we get the length of an array?"
+1:22:36.620000,1:22:38.620000,Basics continued.
+1:22:38.620000,1:22:39.620000,List maps.
+1:22:39.620000,1:22:42.620000,"Okay, numbers array."
+1:22:42.620000,1:22:44.620000,List preserved order.
+1:22:44.620000,1:22:45.620000,Are these lists?
+1:22:45.620000,1:22:46.620000,"Yes, they're lists."
+1:22:46.620000,1:22:47.620000,Okay.
+1:22:47.620000,1:22:49.620000,Good.
+1:22:49.620000,1:22:56.620000,Scala probably wants us to use a map here.
+1:22:56.620000,1:22:59.620000,Functional combinators.
+1:22:59.620000,1:23:01.620000,Is it the partition?
+1:23:01.620000,1:23:02.620000,"Oh, flatten."
+1:23:02.620000,1:23:03.620000,"Okay, okay, okay."
+1:23:03.620000,1:23:04.620000,I think we got this.
+1:23:04.620000,1:23:06.620000,All right.
+1:23:06.620000,1:23:07.620000,A flat map.
+1:23:07.620000,1:23:08.620000,"Sick, bro."
+1:23:08.620000,1:23:10.620000,That's exactly what we want.
+1:23:10.620000,1:23:12.620000,Okay.
+1:23:12.620000,1:23:16.620000,I'm going to write this as a Scala one-liner because we're meat programmers.
+1:23:16.620000,1:23:17.620000,Ready?
+1:23:17.620000,1:23:20.620000,"Oh, if this works, if this works, okay."
+1:23:20.620000,1:23:22.620000,ARR.flatmap.
+1:23:22.620000,1:23:25.620000,Let's figure out what we have to do here.
+1:23:25.620000,1:23:27.620000,That align here function button.
+1:23:27.620000,1:23:28.620000,Fill in the blank part.
+1:23:28.620000,1:23:30.620000,Okay.
+1:23:30.620000,1:23:33.620000,What's num?
+1:23:33.620000,1:23:36.620000,S is the number of times you need to repeat the elements.
+1:23:36.620000,1:23:37.620000,Okay.
+1:23:37.620000,1:23:40.620000,So we're going to do ARR.flatmap.
+1:23:40.620000,1:23:43.620000,List.
+1:23:43.620000,1:23:45.620000,Okay.
+1:23:45.620000,1:23:50.620000,So it's being called with this.
+1:23:50.620000,1:23:53.620000,I assume we're just doing nothing.
+1:23:53.620000,1:24:01.620000,So we need to like multiply it.
+1:24:01.620000,1:24:03.620000,I don't know how to do that.
+1:24:03.620000,1:24:05.620000,"Well, okay, hang on, hang on, hang on."
+1:24:05.620000,1:24:10.620000,What if I say X is not a list?
+1:24:10.620000,1:24:13.620000,But I can create a list.
+1:24:13.620000,1:24:15.620000,Can I know?
+1:24:15.620000,1:24:18.620000,"Oh, okay, okay, okay."
+1:24:18.620000,1:24:22.620000,"Man, if I just wrote something good, it would have been mad Scala skills."
+1:24:22.620000,1:24:25.620000,"But, you know, I don't know how those mad Scala skills are."
+1:24:25.620000,1:24:26.620000,Flatten.
+1:24:26.620000,1:24:28.620000,We need to do a flat map.
+1:24:28.620000,1:24:32.620000,"But we want like a like in Python, it would just be this."
+1:24:32.620000,1:24:39.620000,But it's not Python.
+1:24:39.620000,1:24:52.620000,"Scala list, Scala insert multiple."
+1:24:52.620000,1:25:03.620000,Okay.
+1:25:03.620000,1:25:04.620000,Okay.
+1:25:04.620000,1:25:06.620000,Maybe we need a loop.
+1:25:06.620000,1:25:09.620000,It's a four loop something that we can like.
+1:25:09.620000,1:25:14.620000,There was some of those in those examples I read.
+1:25:14.620000,1:25:21.620000,Scala loop.
+1:25:21.620000,1:25:27.620000,Okay.
+1:25:27.620000,1:25:29.620000,There's other ways to do this though.
+1:25:29.620000,1:25:32.620000,Scala range array is what I really want.
+1:25:32.620000,1:25:36.620000,I'm going to create a range.
+1:25:36.620000,1:25:38.620000,There's some called range.
+1:25:38.620000,1:25:40.620000,"Okay, this is a bit of a hack."
+1:25:40.620000,1:25:49.620000,But I think we can do range one dot and num map X returns num.
+1:25:49.620000,1:25:55.620000,"Okay, let's say run code."
+1:25:55.620000,1:25:57.620000,Compilation error.
+1:25:57.620000,1:25:58.620000,That are not found value range.
+1:25:58.620000,1:26:09.620000,"Oh, we need to import array underscore."
+1:26:09.620000,1:26:10.620000,Wrong answer.
+1:26:10.620000,1:26:13.620000,But it's almost the right answer.
+1:26:13.620000,1:26:14.620000,We just output it.
+1:26:14.620000,1:26:17.620000,"Oh, no, no, no, no, no, no, no, no, we don't want num there."
+1:26:17.620000,1:26:20.620000,We want Y implies X.
+1:26:20.620000,1:26:21.620000,So let's go.
+1:26:21.620000,1:26:22.620000,Let's go.
+1:26:22.620000,1:26:26.620000,Is this some scholarship?
+1:26:26.620000,1:26:27.620000,"Come on, come on."
+1:26:27.620000,1:26:29.620000,"Okay, wrong answer."
+1:26:29.620000,1:26:33.620000,Your output.
+1:26:33.620000,1:26:35.620000,Spectate output.
+1:26:35.620000,1:26:39.620000,That's the input.
+1:26:39.620000,1:26:40.620000,Your output.
+1:26:40.620000,1:26:42.620000,"One, one, two, two."
+1:26:42.620000,1:26:45.620000,Maybe we have to put zero there.
+1:26:45.620000,1:26:50.620000,I don't know if that's inclusive with num or not.
+1:26:50.620000,1:26:51.620000,"No, it's not inclusive."
+1:26:51.620000,1:26:52.620000,"Okay, oh yeah."
+1:26:52.620000,1:26:55.620000,"Yeah, buddy, let's go."
+1:26:55.620000,1:26:58.620000,Go if that works.
+1:26:58.620000,1:27:00.620000,"Yo, who's the king of Scala?"
+1:27:00.620000,1:27:01.620000,This guy.
+1:27:01.620000,1:27:02.620000,That's right.
+1:27:02.620000,1:27:03.620000,That's right.
+1:27:03.620000,1:27:05.620000,I'm the king of Scala.
+1:27:05.620000,1:27:08.620000,I'm ready to go be a kid.
+1:27:08.620000,1:27:13.620000,"Don't worry, I'm not really that arrogant, guys."
+1:27:13.620000,1:27:15.620000,Okay.
+1:27:15.620000,1:27:18.620000,For hackers using Scala.
+1:27:18.620000,1:27:20.620000,Where a hacker using Scala?
+1:27:20.620000,1:27:24.620000,This will be the outline of your function body.
+1:27:24.620000,1:27:27.620000,Your own implementation of a filter function.
+1:27:27.620000,1:27:30.620000,We recommend not using the inbuilt library function.
+1:27:30.620000,1:27:33.620000,What Scala school tells me?
+1:27:33.620000,1:27:35.620000,"Oh, this looks good."
+1:27:35.620000,1:27:38.620000,Let's use filter.
+1:27:38.620000,1:27:41.620000,We want to filter things that are less than X.
+1:27:41.620000,1:27:45.620000,"So let's just use, oh, care what you recommend."
+1:27:45.620000,1:27:50.620000,We're just going to say arr.ylter.
+1:27:50.620000,1:27:57.620000,And then we filter X.
+1:27:57.620000,1:28:00.620000,We filter it.
+1:28:00.620000,1:28:06.620000,If let's try to do is a dilemma filter we want to return true.
+1:28:06.620000,1:28:12.620000,So y12 in zero.
+1:28:12.620000,1:28:16.620000,Are the list elements?
+1:28:16.620000,1:28:17.620000,"Oh, better less than three."
+1:28:17.620000,1:28:19.620000,They're just putting me on the original list.
+1:28:19.620000,1:28:21.620000,Okay.
+1:28:21.620000,1:28:25.620000,We want to know if X is less than delin.
+1:28:25.620000,1:28:32.620000,Does that work?
+1:28:32.620000,1:28:35.620000,"Yeah, let's go."
+1:28:35.620000,1:28:39.620000,Let's go.
+1:28:39.620000,1:28:41.620000,"Alright, these are getting too easy, guys."
+1:28:41.620000,1:28:43.620000,"We need to, we need some more Scala."
+1:28:43.620000,1:28:45.620000,We need some more complicated Scala.
+1:28:45.620000,1:28:46.620000,Scala.
+1:28:46.620000,1:28:48.620000,Am I glad that you're my regular passive Twitter interview?
+1:28:48.620000,1:28:55.620000,"Alright, FizzBuzz."
+1:28:55.620000,1:29:00.620000,Maps can be gone under lists of pairs of functions.
+1:29:00.620000,1:29:03.620000,"Alright, we, we, we, oh, I think we're done."
+1:29:03.620000,1:29:04.620000,It's not even another one.
+1:29:04.620000,1:29:05.620000,"Guys, we finished Scala."
+1:29:05.620000,1:29:06.620000,"Okay, great."
+1:29:06.620000,1:29:07.620000,We've written everything we need.
+1:29:07.620000,1:29:13.620000,Um.
+1:29:13.620000,1:29:22.620000,"Oh, these kind of look hard."
+1:29:22.620000,1:29:25.620000,"Oh, we have Scala now."
+1:29:25.620000,1:29:30.620000,Is it SBF?
+1:29:30.620000,1:29:34.620000,"Uh, SBT close."
+1:29:34.620000,1:29:36.620000,SBT not found.
+1:29:36.620000,1:29:39.620000,Scala.
+1:29:39.620000,1:29:42.620000,How come I don't have SBT?
+1:29:42.620000,1:29:44.620000,One plus one.
+1:29:44.620000,1:29:49.620000,"Yo, that took a long time, guys."
+1:29:49.620000,1:29:52.620000,Did you see a long one plus one took?
+1:29:52.620000,1:29:55.620000,"Uh, var and navy equals Steve."
+1:29:55.620000,1:29:57.620000,Steve.
+1:29:57.620000,1:29:59.620000,Res3.
+1:29:59.620000,1:30:01.620000,Cool.
+1:30:01.620000,1:30:03.620000,Love Scala.
+1:30:03.620000,1:30:04.620000,"Alright, good."
+1:30:04.620000,1:30:05.620000,I think we're good on Scala.
+1:30:05.620000,1:30:07.620000,Let's probably go on Scala if we need to know.
+1:30:07.620000,1:30:10.620000,Um.
+1:30:10.620000,1:30:13.620000,"Alright, yo, we have so many people here."
+1:30:13.620000,1:30:17.620000,"I don't know if we should, uh, we should leave the live stream, but it's, uh,"
+1:30:17.620000,1:30:19.620000,it's getting close to my bedtime.
+1:30:19.620000,1:30:29.620000,"But let's, let's read through the timeline and, uh, see what we get."
+1:30:29.620000,1:30:32.620000,Let me drag it over here.
+1:30:32.620000,1:30:36.620000,"This reminds me when I was on our verse graph, QL code with,"
+1:30:36.620000,1:30:41.620000,"um, nice D-dunk using common list."
+1:30:41.620000,1:30:44.620000,"Amazing things are happening, but the media will be silent."
+1:30:44.620000,1:30:47.620000,"Bro, who's the media?"
+1:30:47.620000,1:30:50.620000,"What, what, what, what you want to know about the FDX story?"
+1:30:50.620000,1:30:55.620000,"You can go to the New York Times, or you can go to autism capital"
+1:30:55.620000,1:30:59.620000,who tells you everything about it.
+1:30:59.620000,1:31:02.620000,Um.
+1:31:02.620000,1:31:06.620000,"Do you access the endpoint, blah, blah, blah, blah, blah, blah,"
+1:31:06.620000,1:31:09.620000,"graph, QL introspection, we tried that."
+1:31:09.620000,1:31:12.620000,"Uh, full thread on learning Scala."
+1:31:12.620000,1:31:15.620000,"Oh, well Scala School is the top one, okay, cool."
+1:31:15.620000,1:31:20.620000,"Um, should make a timeline way back machine on Erbit and,"
+1:31:20.620000,1:31:25.620000,"yeah, yeah, uh, relevant context."
+1:31:25.620000,1:31:27.620000,Best dreams on the internet.
+1:31:27.620000,1:31:29.620000,"Thank you, thank you, thank you."
+1:31:29.620000,1:31:33.620000,Brue install.
+1:31:33.620000,1:31:35.620000,"Uh, again, I get the joke."
+1:31:35.620000,1:31:38.620000,"All right, um, reload the S code."
+1:31:38.620000,1:31:41.620000,"Oh, I say format document."
+1:31:41.620000,1:31:45.620000,"Yes, sorry, I'm idiot."
+1:31:45.620000,1:31:47.620000,"Uh, resolution improved."
+1:31:47.620000,1:31:50.620000,I'm glad about graph QL client.
+1:31:50.620000,1:31:56.620000,"Oh, that's an interesting idea."
+1:31:56.620000,1:32:03.620000,"Uh, finally, sorry to fix the lights."
+1:32:03.620000,1:32:06.620000,Thank you.
+1:32:06.620000,1:32:09.620000,"Um, doge."
+1:32:09.620000,1:32:12.620000,"Uh, thank you for that guy."
+1:32:12.620000,1:32:15.620000,You're a good picture prettier.
+1:32:15.620000,1:32:17.620000,"Uh, we looked at that."
+1:32:17.620000,1:32:20.620000,Just admiring on us work.
+1:32:20.620000,1:32:22.620000,Some NFTs.
+1:32:22.620000,1:32:29.620000,Those are for persisted queries.
+1:32:29.620000,1:32:33.620000,"Oh, you say, how do you go live on Twitter?"
+1:32:33.620000,1:32:34.620000,You got to be late.
+1:32:34.620000,1:32:43.620000,"Uh,"
+1:32:43.620000,1:32:44.620000,thank you.
+1:32:44.620000,1:32:46.620000,I'm glad you're entertained.
+1:32:46.620000,1:32:47.620000,I'm just reading Twitter.
+1:32:47.620000,1:32:49.620000,"I mean, you guys are probably reading Twitter too."
+1:32:49.620000,1:32:50.620000,"Elon Musk, come watch me."
+1:32:50.620000,1:32:52.620000,Why is it watching?
+1:32:52.620000,1:32:55.620000,"Uh, now you guys got better things to do than watch me stream."
+1:32:55.620000,1:32:59.620000,I hope.
+1:32:59.620000,1:33:01.620000,What's the code editor I'm using?
+1:33:01.620000,1:33:02.620000,"Oh, great."
+1:33:02.620000,1:33:03.620000,Okay.
+1:33:03.620000,1:33:08.620000,"Okay, nothing too great."
+1:33:08.620000,1:33:10.620000,"I am interested in the quote tweets, too."
+1:33:10.620000,1:33:11.620000,"Oh, boy, I will miss this place."
+1:33:11.620000,1:33:13.620000,"Twitter stream on Twitter, exposing Twitter code."
+1:33:13.620000,1:33:15.620000,"Guys, I don't have any special access."
+1:33:15.620000,1:33:16.620000,All right.
+1:33:16.620000,1:33:17.620000,We learned Scala.
+1:33:17.620000,1:33:18.620000,That was pretty good.
+1:33:18.620000,1:33:21.620000,Let's think a little bit more about the back end.
+1:33:21.620000,1:33:23.620000,I know we'll wrap this up by 11.
+1:33:23.620000,1:33:30.620000,"I'm sure you guys all have jobs, which you drive to in person tomorrow."
+1:33:30.620000,1:33:54.620000,Okay.
+1:33:54.620000,1:34:21.220000,So it's kind of a thing was a diversion.
+1:34:21.220000,1:34:23.980000,"You know, I did get a lot of views and that's what matters."
+1:34:23.980000,1:34:25.980000,"Yeah, you got to do it for the people."
+1:34:25.980000,1:34:28.980000,Okay.
+1:34:28.980000,1:34:32.980000,So Hadoop and
+1:34:32.980000,1:34:35.980000,our current distribution is hardware shown below.
+1:34:35.980000,1:34:37.980000,Highlights of the new approach.
+1:34:37.980000,1:34:39.980000,It seems like they moved everything.
+1:34:39.980000,1:34:47.980000,It seems like they moved everything to Google Cloud.
+1:34:47.980000,1:34:49.980000,Just interesting.
+1:34:49.980000,1:34:51.980000,"I mean, yo, Elon,"
+1:34:51.980000,1:34:53.980000,here's where the real money is going to come.
+1:34:53.980000,1:34:56.980000,"See, I'm going to work for 12 weeks and then I'm going to be like,"
+1:34:56.980000,1:35:01.980000,"well, I can lower the Google Cloud bill by $25 million."
+1:35:01.980000,1:35:03.980000,Right?
+1:35:03.980000,1:35:09.980000,"No, look, honestly, and I'll say this."
+1:35:09.980000,1:35:13.980000,"I don't know if it's the same thing to, uh,"
+1:35:13.980000,1:35:18.980000,at my interview.
+1:35:18.980000,1:35:21.980000,Elon lost how many billions on this.
+1:35:21.980000,1:35:25.980000,"It's not what it's about, right?"
+1:35:25.980000,1:35:28.980000,I'm here to help the cause if I can.
+1:35:28.980000,1:35:30.980000,"You know, I'm not here to help the cause forever,"
+1:35:30.980000,1:35:33.980000,"but I think it's kind of like, you know, some people go out and like,"
+1:35:33.980000,1:35:35.980000,Canvas for a political party.
+1:35:35.980000,1:35:38.980000,That's kind of how I see this.
+1:35:38.980000,1:35:41.980000,I kind of see this as me.
+1:35:41.980000,1:35:44.980000,"You know, look, if I can be useful, if I can't be useful, I don't know."
+1:35:44.980000,1:35:47.980000,"You know, maybe, maybe, you know, I get the Twitter and it turns out that it's all just, uh,"
+1:35:47.980000,1:35:51.980000,"you know, the people really know what they're doing."
+1:35:51.980000,1:35:53.980000,And I'm honestly not that useful.
+1:35:53.980000,1:35:56.980000,I don't know a scholar.
+1:35:56.980000,1:36:08.980000,I'm not that familiar with all of these really big distributed backend systems.
+1:36:08.980000,1:36:11.980000,"I don't know, react."
+1:36:11.980000,1:36:13.980000,"But, you know, I can do what I can."
+1:36:13.980000,1:36:15.980000,I figure things out pretty fast.
+1:36:15.980000,1:36:20.980000,"And, you know, again, it's about the cause."
+1:36:20.980000,1:36:24.980000,It's about the cause for a place for free speech exists on the internet.
+1:36:24.980000,1:36:26.980000,"And, you know, it's something that's really important to me."
+1:36:26.980000,1:36:29.980000,There's not much in the world that's really very important to me.
+1:36:29.980000,1:36:32.980000,"You know, a lot of things that's a joke, but this kind of isn't right."
+1:36:32.980000,1:36:33.980000,I look at them.
+1:36:33.980000,1:36:34.980000,It's one of many things.
+1:36:34.980000,1:36:37.980000,"It's always going to be like an heaven flow, right?"
+1:36:37.980000,1:36:38.980000,It's always a cat mouse game.
+1:36:38.980000,1:36:41.980000,"There's always the people who want to make, you know,"
+1:36:41.980000,1:36:45.980000,want to restrict speech and who want to make speech free.
+1:36:45.980000,1:36:47.980000,And the internet kind of goes back and forth.
+1:36:47.980000,1:36:51.980000,But I felt that the internet's really kind of sucked for the last 10 years.
+1:36:51.980000,1:36:53.980000,Or at least it's gone downhill.
+1:36:53.980000,1:36:54.980000,Maybe not even the last 10 years.
+1:36:54.980000,1:36:57.980000,Maybe it's really been like the last five.
+1:36:57.980000,1:37:02.980000,And I think this is something that could potentially really reverse that time.
+1:37:02.980000,1:37:06.980000,"And yeah, if I can help, I'm down to."
+1:37:06.980000,1:37:08.980000,"If I'm useless then, I don't know."
+1:37:08.980000,1:37:09.980000,"I'm useless, you know."
+1:37:09.980000,1:37:12.980000,"Let us, let's, let's, yeah."
+1:37:18.980000,1:37:20.980000,Ah.
+1:37:20.980000,1:37:23.980000,Data transfer in Manhattan using rocks TV.
+1:37:23.980000,1:37:27.980000,I think rocks TV is something kind of like a TV.
+1:37:27.980000,1:37:30.980000,Persistent key value store.
+1:37:30.980000,1:37:33.980000,Okay.
+1:37:33.980000,1:37:39.980000,"It's, okay."
+1:37:39.980000,1:37:45.980000,Manhattan is Twitter's internally developed key value store.
+1:37:45.980000,1:37:51.980000,It is the default storage solution at Twitter for persisting real-time service.
+1:37:51.980000,1:37:55.980000,It's used to serve all core nouns at Twitter.
+1:37:55.980000,1:37:57.980000,It's interesting right there.
+1:37:57.980000,1:38:01.980000,"Like, like, look, just, you can tell a lot by like their terminology, right?"
+1:38:01.980000,1:38:03.980000,"Like, they have nouns."
+1:38:03.980000,1:38:05.980000,"That's actually really cool to think about it, right?"
+1:38:05.980000,1:38:09.980000,"Like, nouns and verbs."
+1:38:19.980000,1:38:24.980000,Data transfer between storage machines is a typical process.
+1:38:24.980000,1:38:33.980000,"Buh, buh, buh, buh, buh, buh."
+1:38:33.980000,1:38:37.980000,"When we started from our older, okay, yeah."
+1:38:37.980000,1:38:42.980000,"They talk about, they have these custom storage engines."
+1:38:42.980000,1:38:47.980000,But I don't think rocks TV is multi-computer.
+1:38:47.980000,1:38:50.980000,I think it's just one computer.
+1:38:50.980000,1:38:56.980000,So it's interesting. It almost seems like Manhattan is backed by rocks TV now.
+1:38:56.980000,1:38:58.980000,Which is cool.
+1:38:58.980000,1:39:02.980000,"Yeah, they had, they had these custom storage engines."
+1:39:02.980000,1:39:06.980000,So I would imagine that Manhattan now has a rocks TV store engine.
+1:39:06.980000,1:39:10.980000,I remember reading about these in one of their engineering blog posts.
+1:39:10.980000,1:39:11.980000,Yeah.
+1:39:11.980000,1:39:14.980000,Manhattan had two read write store engines.
+1:39:14.980000,1:39:19.980000,"This one, a read one and a write one."
+1:39:19.980000,1:39:21.980000,Most of them.
+1:39:21.980000,1:39:27.980000,MHB tree is implemented as a MySQL plugin.
+1:39:35.980000,1:39:40.980000,A pluggable storage engine.
+1:39:40.980000,1:39:43.980000,"Yeah, okay, great."
+1:39:43.980000,1:39:55.980000,SS table storage engine.
+1:39:55.980000,1:40:19.980000,A pluggable amplification.
+1:40:19.980000,1:40:29.980000,It's also done by flash.
+1:40:29.980000,1:40:34.980000,"If your flash is like really full, you have a lot of write amplification with it moving things around."
+1:40:34.980000,1:40:37.980000,The flash is fast.
+1:40:37.980000,1:40:40.980000,Our head of infrastructure comm is always talking about.
+1:40:40.980000,1:40:45.980000,He loves talking about the lifetime of these SSDs and stuff.
+1:40:45.980000,1:40:49.980000,I don't think I can get into that.
+1:40:49.980000,1:40:53.980000,We kick some evaluation of rocks TV's new storage engine.
+1:40:53.980000,1:40:57.980000,It's also an LSM based.
+1:40:57.980000,1:40:59.980000,A long section word string.
+1:40:59.980000,1:41:01.980000,I kind of know this.
+1:41:01.980000,1:41:07.980000,Reconfidence that it could match.
+1:41:07.980000,1:41:15.980000,Box TV's storage engine.
+1:41:15.980000,1:41:17.980000,Manhattan is a multi-tenance system.
+1:41:17.980000,1:41:25.980000,"It has a single cluster server, multiple application, and data sets."
+1:41:25.980000,1:41:27.980000,"Okay, cool."
+1:41:27.980000,1:41:33.980000,It seems like it's this big distributed Twitter Manhattan's not open source.
+1:41:33.980000,1:41:49.980000,Wonder why not.
+1:41:49.980000,1:41:53.980000,Moving from a monolith to microservices.
+1:41:53.980000,1:41:55.980000,I'm going to multiple data centers using Cassandra.
+1:41:55.980000,1:42:00.980000,This is not one of those Apache things.
+1:42:00.980000,1:42:03.980000,It seems like most things.
+1:42:03.980000,1:42:06.980000,I bet you most of these queries that we're doing are just hitting.
+1:42:06.980000,1:42:12.980000,There's this thing Manhattan which sits in front and then in the back end there's a rocks TV.
+1:42:12.980000,1:42:14.980000,Rocks TV is a lot like level TV.
+1:42:14.980000,1:42:18.980000,"If I recall correctly, I used it once."
+1:42:18.980000,1:42:24.980000,This is like multi-machine and this is single-machine.
+1:42:24.980000,1:42:30.980000,A lot of these things can be sharded.
+1:42:30.980000,1:42:36.980000,It's used to serve all four nouns.
+1:42:36.980000,1:42:42.980000,"When we're getting nouns like when I run that out, when I run my little script here,"
+1:42:42.980000,1:42:48.980000,which gets the noun of me.
+1:42:48.980000,1:42:51.980000,"Here, that gets the George Hott's noun."
+1:42:51.980000,1:42:55.980000,I would assume that it's hitting Manhattan and then rocks TV.
+1:42:55.980000,1:42:59.980000,There's probably some cash in front of it.
+1:42:59.980000,1:43:05.980000,Maybe we can try to get some insight into what that actually is.
+1:43:05.980000,1:43:09.980000,Let's throw some Vs.
+1:43:09.980000,1:43:13.980000,This is the big curl again.
+1:43:13.980000,1:43:15.980000,Little curl.
+1:43:15.980000,1:43:17.980000,VVVVV.
+1:43:17.980000,1:43:23.980000,I'm going to demo.
+1:43:23.980000,1:43:29.980000,You can figure out what server this is.
+1:43:29.980000,1:43:35.980000,This is the response from the server.
+1:43:35.980000,1:43:41.980000,Server TSAA.
+1:43:41.980000,1:43:49.980000,This is a web front end.
+1:43:49.980000,1:43:53.980000,This is determining which machine that the George Hott's thing is located on.
+1:43:53.980000,1:43:55.980000,It's sending that.
+1:43:55.980000,1:43:59.980000,There might be some cash in layer in here.
+1:43:59.980000,1:44:03.980000,Usually you throw a cash in layer after your web front end.
+1:44:03.980000,1:44:07.980000,You don't have to hit the database if I make the same request over and over again.
+1:44:07.980000,1:44:15.980000,It might even tell you something.
+1:44:15.980000,1:44:17.980000,Twitter Response Tags.
+1:44:17.980000,1:44:21.980000,Bounce or compliant.
+1:44:21.980000,1:44:23.980000,TSAA.
+1:44:23.980000,1:44:27.980000,How do I disable HTTP2?
+1:44:27.980000,1:44:31.980000,How do I ask for...
+1:44:31.980000,1:44:39.980000,Oh.
+1:44:39.980000,1:44:53.980000,Tell curl to accept.
+1:44:53.980000,1:44:55.980000,"Okay, there we go."
+1:44:55.980000,1:44:59.980000,At least this is 1.1 now.
+1:44:59.980000,1:45:01.980000,I don't know.
+1:45:01.980000,1:45:03.980000,HTTP3.
+1:45:03.980000,1:45:07.980000,"Okay, pragmino cash."
+1:45:07.980000,1:45:09.980000,Blah blah blah blah.
+1:45:09.980000,1:45:11.980000,Perf header.
+1:45:11.980000,1:45:13.980000,It's a JSON.
+1:45:13.980000,1:45:15.980000,That's crazy.
+1:45:15.980000,1:45:19.980000,That sounds that.
+1:45:19.980000,1:45:23.980000,"Okay, and then..."
+1:45:23.980000,1:45:25.980000,Let's go back here.
+1:45:25.980000,1:45:29.980000,Is it all that stuff when I load this?
+1:45:29.980000,1:45:31.980000,What's actually loading the timeline?
+1:45:31.980000,1:45:35.980000,Is it actually requesting for each tweet?
+1:45:35.980000,1:45:41.980000,I feel like not all the stuff showing up here.
+1:45:41.980000,1:45:45.980000,Where is my...
+1:45:49.980000,1:45:51.980000,Where's my JavaScript?
+1:45:51.980000,1:45:55.980000,And clearly not everything is here.
+1:46:13.980000,1:46:17.980000,"Oh, is the does this show up as part of tweet detail?"
+1:46:17.980000,1:46:21.980000,It might.
+1:46:21.980000,1:46:25.980000,The organization denied by access control.
+1:46:33.980000,1:46:35.980000,"Oh, I can click there in format."
+1:46:35.980000,1:46:37.980000,"Oh, that's nice."
+1:46:37.980000,1:46:39.980000,"Yo, by the way, whoever showed me that, thank you."
+1:46:39.980000,1:46:43.980000,I love that.
+1:46:43.980000,1:46:45.980000,I don't understand.
+1:46:45.980000,1:46:47.980000,"Okay, why is something filtering here?"
+1:46:47.980000,1:46:51.980000,Because it says 26 out of...
+1:46:51.980000,1:46:55.980000,What's that?
+1:46:55.980000,1:46:57.980000,This?
+1:46:57.980000,1:46:59.980000,Fetch XHL.
+1:46:59.980000,1:47:03.980000,Why is it not showing all the requests?
+1:47:03.980000,1:47:11.980000,This is where I like having the live...
+1:47:17.980000,1:47:23.980000,Chrome network is showing all requests.
+1:47:23.980000,1:47:27.980000,Because then everyone in that log is just streaming at me.
+1:47:27.980000,1:47:31.980000,"The filter is red, which means there's something in the filter search box that doesn't match any of the..."
+1:47:31.980000,1:47:35.980000,Results.
+1:47:35.980000,1:47:37.980000,You just can't see the search box.
+1:47:37.980000,1:47:39.980000,"Oh, I have the word API in here."
+1:47:39.980000,1:47:41.980000,"Oh, that's dumb."
+1:47:41.980000,1:47:43.980000,"Okay, there we go."
+1:47:43.980000,1:47:45.980000,Here's the JavaScript being loaded at the beginning.
+1:47:45.980000,1:47:47.980000,"Oh, that's great."
+1:47:47.980000,1:47:49.980000,Can't believe I just put the word API in there.
+1:47:49.980000,1:47:51.980000,"Okay, so here's all that JavaScript being loaded."
+1:47:51.980000,1:47:55.980000,"Whenever these client events are, I think they're being blocked by my add block."
+1:47:55.980000,1:47:59.980000,"Oh, I can turn it off, but it cares."
+1:47:59.980000,1:48:03.980000,And it looked like the other stuff.
+1:48:09.980000,1:48:13.980000,Guide.json.
+1:48:15.980000,1:48:19.980000,"Oh, that's the trending topics."
+1:48:23.980000,1:48:27.980000,"Sorry, if I have to get close to the screen, you guys definitely can't see."
+1:48:27.980000,1:48:35.980000,"These are JavaScript,"
+1:48:35.980000,1:48:39.980000,Fetch.hll.
+1:48:39.980000,1:48:45.980000,You can see my rest.hd.json.
+1:48:45.980000,1:48:55.980000,Let's search for this.
+1:48:55.980000,1:48:57.980000,Search in here.
+1:48:57.980000,1:48:59.980000,"Oh, that's not right."
+1:48:59.980000,1:49:03.980000,Um...
+1:49:03.980000,1:49:07.980000,Sync message.
+1:49:09.980000,1:49:11.980000,Like four.
+1:49:11.980000,1:49:15.980000,Is this?
+1:49:15.980000,1:49:19.980000,Is that...
+1:49:19.980000,1:49:21.980000,P2?
+1:49:21.980000,1:49:25.980000,"Okay, this guide.json seems like a decent part of the API."
+1:49:25.980000,1:49:29.980000,Let's see if we can find a documentation.
+1:49:29.980000,1:49:33.980000,Hmm...
+1:49:33.980000,1:49:37.980000,Trigger API.
+1:49:37.980000,1:49:41.980000,"All right, well..."
+1:49:41.980000,1:49:45.980000,"Oh, yes."
+1:49:45.980000,1:49:49.980000,"All right, so it seems like this authorization guessed."
+1:49:49.980000,1:49:53.980000,Look at things been around for a long time.
+1:49:53.980000,1:49:57.980000,"Oh, I wonder what guide is."
+1:49:57.980000,1:50:01.980000,I don't tell you.
+1:50:01.980000,1:50:05.980000,"Even if I could speak Japanese, I don't think it goes into it."
+1:50:05.980000,1:50:07.980000,"All right, guys, it's 11 o'clock."
+1:50:07.980000,1:50:09.980000,It's my bedtime.
+1:50:09.980000,1:50:13.980000,"If you don't watch, I stream on Twitch frequently, but I figured it was more appropriate to uh..."
+1:50:13.980000,1:50:17.980000,to do this stream on Twitter.
+1:50:17.980000,1:50:19.980000,Let's just make me big.
+1:50:19.980000,1:50:21.980000,Uh...
+1:50:21.980000,1:50:23.980000,My name is George Hots.
+1:50:23.980000,1:50:25.980000,Uh...
+1:50:25.980000,1:50:27.980000,I stream.
+1:50:27.980000,1:50:29.980000,I tweet.
+1:50:29.980000,1:50:31.980000,"Nah, man."
+1:50:31.980000,1:50:33.980000,I don't know.
+1:50:33.980000,1:50:35.980000,Look.
+1:50:35.980000,1:50:39.980000,"You know, we had no idea what we were doing, but our first work can be his greatest."
+1:50:39.980000,1:50:41.980000,Uh...
+1:50:41.980000,1:50:43.980000,I'm going to the Night Rats Club.
+1:50:43.980000,1:50:45.980000,I guess you should go listen to it.
+1:50:45.980000,1:50:47.980000,Um...
+1:50:47.980000,1:50:49.980000,"Yeah, thank you for watching."
+1:50:49.980000,1:50:51.980000,Hope that it'll be in Twitter.
+1:50:51.980000,1:50:53.980000,And see what I can do to uh...
+1:50:53.980000,1:50:55.980000,help the cause.
+1:50:55.980000,1:50:57.980000,"Uh... you know, I'm uh..."
+1:50:57.980000,1:50:59.980000,old school internet guy.
+1:50:59.980000,1:51:01.980000,I want the internet to be as uh...
+1:51:01.980000,1:51:03.980000,free for uh...
+1:51:03.980000,1:51:05.980000,"you know, my children as it was for me."
+1:51:05.980000,1:51:07.980000,"All right, so..."
+1:51:07.980000,1:51:09.980000,anything we can do to help that cause.
+1:51:09.980000,1:51:11.980000,We're here for.
+1:51:11.980000,1:51:13.980000,"All right, thank you all for watching."
+1:51:13.980000,1:51:15.980000,Have a good night.
+1:51:15.980000,1:51:17.980000,Bye.
+1:51:17.980000,1:51:19.980000,Bye.
